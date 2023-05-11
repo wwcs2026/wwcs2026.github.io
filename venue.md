@@ -13,7 +13,7 @@ At Corriol, we believe that our remote location in La Garrotxa provides an ideal
 
 Choose Corriol as your workshop venue and experience the perfect blend of functionality, tranquility, and inspiration. We look forward to hosting your productive and memorable event.
 
-<img src="/assets/image24/corriol.jpeg" width="80%" />
+<img src="/assets/image24/venue/corriol.jpeg" width="80%" />
 
 View from the outside.
 
