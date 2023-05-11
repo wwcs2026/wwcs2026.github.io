@@ -19,6 +19,6 @@ View from the outside.
 
 ## Travel Information:
 
-[Corriol on Google Maps]([https://www.google.com/maps/place/Institute+for+Advanced+Study/@52.3679637,4.8917781,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609c00d48a0b5:0x4f066d8fac23e314!8m2!3d52.3679637!4d4.8939668?hl=en](https://goo.gl/maps/3ZPJz6rwgNmov8Ec8?coh=178573&entry=tt))
+[Corriol on Google Maps]([[https://www.google.com/maps/place/Institute+for+Advanced+Study/@52.3679637,4.8917781,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609c00d48a0b5:0x4f066d8fac23e314!8m2!3d52.3679637!4d4.8939668?hl=en](https://goo.gl/maps/3ZPJz6rwgNmov8Ec8?coh=178573&entry=tt)](https://goo.gl/maps/3ZPJz6rwgNmov8Ec8?coh=178573&entry=tt))
 
 Barcelona is easily reachable by train. We will leave from there on Sunday night, after the social event.
