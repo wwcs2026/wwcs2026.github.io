@@ -14,7 +14,7 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 |[Miguel Angel Casado]()|[Irene Ferri]()|[Ariadna Fosch]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.jpg" height="120px"  />|
+|<img src="/assets/image24/committee/miguel.jpg" height="120px"  />| <img src="/assets/image24/committee/irene.jpg" height="120px"  />| <img src="/assets/image24/committee/ari.jpg" height="120px"  />|
 | GISC, <br> Carlos III,<br>  Madrid | UB, <br>Barcelona | CENTAI, <br> Torino|
 
 
