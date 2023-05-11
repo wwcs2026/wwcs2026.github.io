@@ -3,6 +3,14 @@ layout: page
 title:  Program
 ---
 
-The program will consist of lectures and time to work on projects.
+Main activities:
+- Keynote talks: some invited speakers will present their work.
+- Tutorials: proposed and given by the participants on relevant topics.
+- Projects: participants will split into groups and will formalize a research question. They will present their (partial) results on the last day of the workshop.
 
-<img src="/assets/image23/pre_programme.png" width="100%" />
+Social activities:
+- Social event in Barcelona before leaving for the venue.
+- Hike or bike trip around the Pyrenees.
+
+
+<img src="/assets/image24/program.png" width="100%" />
