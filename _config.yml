@@ -44,7 +44,7 @@ logo:                  /assets/image23/wwcs23_logo_whitefont.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                wwcs2024
-  email:               2024wwcs@gmail.com
+  email:               wwcs2024@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             winter_complex
   github:              wwcs2024
@@ -67,8 +67,8 @@ menu:
     url:   /speakers/
   - title: Venue
     url:   /venue/
-  - title: Accommodation
-    url:   /accommodation/
+#  - title: Accommodation
+#    url:   /accommodation/
 #  - title: Registration
 #    url: /registration/
   - title: Committees
