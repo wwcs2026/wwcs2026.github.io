@@ -3,7 +3,7 @@ layout: page
 title:  Committees
 ---
 
-You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gmail.com) or write us directly using the following information.
+You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write us directly using the following information.
 
 ## Scientific Committee
 
