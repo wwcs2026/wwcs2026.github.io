@@ -7,15 +7,15 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Scientific Committee
 
-|[Eric Dignum](https://www.linkedin.com/in/ericdignum/)|[Casper van Elteren](cvaneleteren.github.io)|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
+|[Emma Fraxanet]()|[Elena Candellone](elenacandellone.github.io)|[Fernando Diaz Diaz]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image23/committee/casper.jpg" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
-|Computational Science Lab <br> Institute for Advanced Study, <br> University of Amsterdam | Computational Science Lab, <br> University of Amsterdam | Psychological Methods,<br>  University of Amsterdam |
+|<img src="/assets/image24/committee/emma" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer" height="120px"  />|
+|Pompeu Fabra <br> barcelona, <br> barcelona | M&S, <br> Utrecht University | IFISC,<br>  Mallorca |
 
-|[Jonas Haslbeck](https://jonashaslbeck.com/)|[Karoline Huth](https://twitter.com/karoline_huth)|
-|:-------------------------:|:-------------------------:|
+|[Miguel Angel Casado]()|[Irene Ferri]()|[Ariadna Fosch]()|
+|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.jpg" height="120px"  />|
-| Psychological Methods, <br> University of Amsterdam;<br>  Faculty of Psychology and Neuroscience, <br> Maastricht University | Centre for Urban Mental Health & <br> Department of Psychological Methods, <br> University of Amsterdam; <br> Department of Psychiatry, <br> Amsterdam UMC |
+| GISC, <br> Carlos III,<br>  Madrid | UB, <br>Barcelona | CENTAI, <br> Torino|
 
 
 ## Steering Committee
