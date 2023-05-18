@@ -25,7 +25,7 @@ This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees 
 
 # Contacts
 
-Email us at: [wwcs2024\@gmail.com](mailto:wwcs2024@gmail.com) <!-- Twitter: "@winter_complex" -->
+Email us at: [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) <!-- Twitter: "@winter_complex" -->
 
 <center>
 
