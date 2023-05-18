@@ -10,12 +10,12 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |[Emma Fraxanet]()|[Elena Candellone](elenacandellone.github.io)|[Fernando Diaz Diaz]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/emma" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer" height="120px"  />|
-|Pompeu Fabra <br> barcelona, <br> barcelona | M&S, <br> Utrecht University | IFISC,<br>  Mallorca |
+|Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Baleairc Islands, Spain |
 
 |[Miguel Angel Casado]()|[Irene Ferri]()|[Ariadna Fosch]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/miguel.jpg" height="120px"  />| <img src="/assets/image24/committee/irene.jpg" height="120px"  />| <img src="/assets/image24/committee/ari.jpg" height="120px"  />|
-| GISC, <br> Carlos III,<br>  Madrid | UB, <br>Barcelona | CENTAI, <br> Torino|
+| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | CENTAI Institute, <br> Torino, Italy|
 
 
 ## Steering Committee
