@@ -9,9 +9,7 @@ The venue boasts two spacious meeting rooms, along with an inviting outdoor spac
 
 The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
 
-<img src="/assets/image24/venue/corriol.jpeg" width="45%"/><img src="/assets/image24/venue/mountains.jpeg" width="45%"/>
-
-View from the outside | Catalan Pyrenees 
+<img src="/assets/image24/venue/corriol.jpeg" width="80%"/><img src="/assets/image24/venue/mountains.jpeg" width="80%"/>
 
 ## Travel Information:
 
