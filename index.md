@@ -13,15 +13,15 @@ This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees 
 
 # Important Dates
 
+## Workshop Dates:
+
+-   **January 29th to Feb 2nd 2024**
+
 ## Applications:
 
 -   Start of applications: TBA!
 -   Deadline for applications: TBA!
 -   Notification of acceptance: TBA!
-
-## Workshop Dates:
-
--   **January 29th to Feb 2nd 2024**
 
 # Contacts
 
