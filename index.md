@@ -5,29 +5,33 @@ layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2024
 ---
 
-The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world come together to work together on interdisciplinary projects around complex systems.
+The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world come together to work on interdisciplinary projects around complex systems.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 9th edition of the WWCS and it will be held in Spain from **January 29th to Feb 2rd 2024**.
-Previously it was held in Amsterdam, Brussels, [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), Zakopane, [Charmey](https://wwcs2020.github.io/), and [Besançon](https://wwcs2022.github.io/).
-
+This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees from **January 29th to Feb 2nd 2024**. Previously it was held in [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
 
 # Important Dates
 
 ## Applications:
-- Start of applications: Sept 21st
-- Deadline for applications: Oct 31st
-- Notification of acceptance: Nov 15th
+
+-   Start of applications: TBA!
+-   Deadline for applications: TBA!
+-   Notification of acceptance: TBA!
 
 ## Workshop Dates:
-- **January 29th to Feb 2rd 2024**
 
+-   **January 29th to Feb 2nd 2024**
 
 # Contacts
 
-Email us at: [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com)
-<!-- Twitter: "@winter_complex" -->
+Email us at: [wwcs2024\@gmail.com](mailto:wwcs2024@gmail.com) <!-- Twitter: "@winter_complex" -->
 
 <center>
-<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
+
+<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by WWCS</a>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+</center>
