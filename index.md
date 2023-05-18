@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
-title: Winter Workshop on Complex Systems 2024
+#title: Winter Workshop on Complex Systems 2024
 ---
 <center>
 <img src="/assets/image24/logo.png" width="80%"/>
