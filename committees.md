@@ -10,7 +10,7 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |[Emma Fraxanet]()|[Elena Candellone](elenacandellone.github.io)|[Fernando Diaz Diaz]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/emma" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer" height="120px"  />|
-|Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Baleairc Islands, Spain |
+|Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Balearic Islands, Spain |
 
 |[Miguel Angel Casado]()|[Irene Ferri]()|[Ariadna Fosch]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -20,12 +20,13 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 
 ## Steering Committee
 
-|Claire Lagesse|Furkan Gursoy|Javier Garcia-Bernardo|
+|Claire Lagesse|Furkan Gursoy|Adam Finnemann|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/SC/claire.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/furkan.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/javier.jpg" height="120px"  /> | 
-|University of Burgundy, <br> France|University of Houston, <br> USA|Utrecht University, <br>  Netherlands|
+|<img src="/assets/image23/committee/SC/claire.jpg" height="120px" /> | <img src="/assets/image24/committee/furkan.jpg" height="120px" /> | <img src="/assets/image24/committee/adam.png" height="120px"  /> | 
+|University of Burgundy, <br> France|University of Houston, <br> USA|University van Amsterdam, <br>  The Netherlands|
 
-|Alexandre Bovet|Matteo Cinelli|Mateusz Wiliński|
+|Alexandre Bovet|Matteo Cinelli|Eric Dignum|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/SC/alex.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/matteo.jpg" height="120px"/> | <img src="/assets/image23/committee/SC/mateusz.jpg" height="120px"  />|
-|University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | Los Alamos National <br> Laboratory, USA|
+|<img src="/assets/image24/committee/alex.jpg" height="120px" /> | <img src="/assets/image24/committee/matteo.jpg" height="120px"/> | <img src="/assets/image23/committee/SC/mateusz.jpg" height="120px"  />|
+|University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | IAS &
+University van Amsterdam <br> The Netherlands|
