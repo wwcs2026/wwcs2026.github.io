@@ -12,7 +12,7 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |<img src="/assets/image24/committee/emma" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer" height="120px"  />|
 |Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Balearic Islands, Spain |
 
-|[Miguel Angel Casado]()|[Irene Ferri]()|[Ariadna Fosch]()|
+|[Miguel Ángel González Casado]()|[Irene Ferri]()|[Ariadna Fosch Muntané]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/miguel.jpg" height="120px"  />| <img src="/assets/image24/committee/irene.jpg" height="120px"  />| <img src="/assets/image24/committee/ari.jpg" height="120px"  />|
 | Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | CENTAI Institute, <br> Torino, Italy|
