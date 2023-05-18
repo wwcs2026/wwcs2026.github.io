@@ -4,6 +4,9 @@
 layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2024
 ---
+<center>
+<img src="/assets/image24/logo.png" width="80%"/>
+</center>
 
 The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world come together to work on interdisciplinary projects around complex systems.
 
