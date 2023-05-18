@@ -27,6 +27,6 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 
 |Alexandre Bovet|Matteo Cinelli|Eric Dignum|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image24/committee/alex.jpg" height="120px" /> | <img src="/assets/image24/committee/matteo.jpg" height="120px"/> | <img src="/assets/image23/committee/eric.png" height="120px"  />|
+|<img src="/assets/image24/committee/alex.jpg" height="120px" /> | <img src="/assets/image24/committee/matteo.jpg" height="120px"/> | <img src="/assets/image24/committee/eric.png" height="120px"  />|
 |University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | IAS,
 University van Amsterdam <br> The Netherlands|
