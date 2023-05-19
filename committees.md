@@ -7,7 +7,7 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 
 ## Scientific Committee
 
-|[Emma Fraxanet]()|[Elena Candellone](elenacandellone.github.io)|[Fernando Diaz Diaz]()|
+|[Emma Fraxanet](https://emmafrax.github.io/)|[Elena Candellone](https://elenacandellone.github.io)|[Fernando Diaz Diaz]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/emma.jpg" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer" height="120px"  />|
 |Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Balearic Islands, Spain |
