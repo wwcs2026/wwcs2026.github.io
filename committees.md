@@ -12,10 +12,11 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |<img src="/assets/image24/committee/emma.jpg" height="120px"  />| <img src="/assets/image24/committee/elena.jpeg" height="120px"  />| <img src="/assets/image24/committee/fer.png" height="120px"  />|
 |Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC,<br>  Balearic Islands, Spain |
 
-|[Miguel Ángel González Casado]()|[Irene Ferri]()|
-|:-------------------------:|:-------------------------:|
-|<img src="/assets/image24/committee/miguel.png" height="120px"  />| <img src="/assets/image24/committee/irene.jpeg" height="120px"  />|
-| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | 
+|[Miguel Ángel González Casado]()|[Irene Ferri]()|[Ariadna Fosch Muntané]()|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/assets/image24/committee/miguel.png" height="120px"  />| <img src="/assets/image24/committee/irene.jpeg" height="120px"  />| <img src="/assets/image24/committee/ari.jpeg" height="120px"  />|
+| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | BIFI,  <br> Zaragoza, Spain|
+
 
 ## Steering Committee
 
