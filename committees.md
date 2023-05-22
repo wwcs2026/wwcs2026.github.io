@@ -15,7 +15,7 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |[Miguel Ángel González Casado]()|[Irene Ferri]()|[Ariadna Fosch Muntané]()|
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/miguel.png" height="120px"  />| <img src="/assets/image24/committee/irene.jpeg" height="120px"  />| <img src="/assets/image24/committee/ari.jpeg" height="120px"  />|
-| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | CENTAI Institute, <br> Torino, Italy|
+| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | Universidad de Zaragoza, <br> Spain|
 
 
 ## Steering Committee
