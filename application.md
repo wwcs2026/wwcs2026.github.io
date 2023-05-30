@@ -26,7 +26,7 @@ The workshop will exclusively be an onsite event. In case of restrictions due to
 
 ## Accommodation
 
-We will provide you with shared rooms at [Corriol](https://www.corriolserveis.com/) in the Catalan Pyrenees. 
+We will provide you with shared rooms at [El Rourell](https://www.corriolserveis.com/) in the Catalan Pyrenees. 
 
 <!---
 We will split the rooms based on gender. In case you prefer to have a single room, please send us an email to [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com).
