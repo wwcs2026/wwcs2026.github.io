@@ -9,7 +9,7 @@ The venue boasts two spacious meeting rooms, along with an inviting outdoor spac
 
 The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
 
-<img src="/assets/image24/venue/rourell.jpeg" width="60%"/><img src="/assets/image24/venue/mountains.jpeg" width="60%"/><img src="/assets/image24/venue/olot.jpeg" width="60%"/><img src="/assets/image24/venue/auditorium.jpeg" width="60%"/>
+<img src="/assets/image24/venue/rourell.jpeg" width="100%"/><img src="/assets/image24/venue/mountains.jpeg" width="100%"/><img src="/assets/image24/venue/olot.jpeg" width="100%"/><img src="/assets/image24/venue/auditorium.jpeg" width="100%"/>
 
 ## Travel Information:
 
