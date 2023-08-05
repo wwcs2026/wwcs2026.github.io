@@ -29,3 +29,8 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image24/committee/alex.jpg" height="120px" /> | <img src="/assets/image24/committee/matteo.jpg" height="120px"/> | <img src="/assets/image24/committee/eric.png" height="120px"  />|
 |University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | IAS, University van Amsterdam <br> The Netherlands|
+
+|Karoline Huth|Jonas Haslbeck|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/assets/image24/committee/karoline.jpg" height="120px" /> | <img src="/assets/image24/committee/jonas.jpg" height="120px"/> |
+|University van Amsterdam, <br>  The Netherlands|Maastricht University, <br>  The Netherlands|
