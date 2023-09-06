@@ -5,20 +5,20 @@ title:  Application
 
 To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
-- Start of applications: TBA!
-- Deadline for applications: TBA!
-- Notification of acceptance: TBA!
+- Start of applications: **September 15th**
+- Deadline for applications: **October 20th**
+- Notification of acceptance: **November 6th**
 
-The application form will be available soon.
+The application form is available here.
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years 20-30% of applicants were invited to attend the Winter Workshop.
 
 ## Registration
 
-The workshop registration fee includes:
+The workshop registration fee is 400EUR and it includes:
 - Accommodation from Sunday to Friday (5 nights)
-- Breakfast at accommodation
-- Lunch, coffee breaks, and dinners
+- Breakfast, lunch, and dinners at the accommodation
+- Coffee breaks at the venue
 - Social activity
 - Transport from Barcelona to the venue
 

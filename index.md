@@ -22,9 +22,9 @@ This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees 
 
 ## Applications:
 
--   Start of applications: TBA!
--   Deadline for applications: TBA!
--   Notification of acceptance: TBA!
+- Start of applications: **September 15th**
+- Deadline for applications: **October 20th**
+- Notification of acceptance: **November 6th**
 
 # Contacts
 
