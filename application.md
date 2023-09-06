@@ -15,7 +15,7 @@ We aim to create an inclusive, diverse, sociable, and motivated group of young r
 
 ## Registration
 
-The workshop registration fee is 400EUR and it includes:
+The workshop registration fee is 350EUR and it includes:
 - Accommodation from Sunday to Friday (5 nights)
 - Breakfast, lunch, and dinners at the accommodation
 - Coffee breaks at the venue
