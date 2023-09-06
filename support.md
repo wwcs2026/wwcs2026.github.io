@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Travel Grants
+title:  Support
 ---
 
 &nbsp; &nbsp; &nbsp;
