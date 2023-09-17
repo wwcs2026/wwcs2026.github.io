@@ -5,7 +5,7 @@ title:  Application
 
 To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
-- Start of applications: **September 15th**
+- Start of applications: **September 20th**
 - Deadline for applications: **October 20th**
 - Notification of acceptance: **November 6th**
 
