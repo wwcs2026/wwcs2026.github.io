@@ -3,8 +3,11 @@ layout: page
 title:  Speakers
 ---
 
-*TBA!*
+<img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="25%"/>
 
+[Alberto Aletá](https://aaleta.github.io/)
+
+*TBA!*
 
 <!---
 <img style="float: centre;" src="/assets/image23/speakers/karolinewiesner.jpg" width="25%"/>
