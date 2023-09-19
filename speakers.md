@@ -7,7 +7,7 @@ title:  Speakers
 
 [Alberto Aletá](https://aaleta.github.io/)
 
-*TBA!*
+*Other speakers TBA!*
 
 <!---
 <img style="float: centre;" src="/assets/image23/speakers/karolinewiesner.jpg" width="25%"/>
