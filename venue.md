@@ -9,7 +9,7 @@ title:  Venue
 
 # Workshop venue
 
-[**Can Trona**](https://www.cantrona.cat/) (center of culture and nature of thr Vall D'en Bas) is a facility with a study room, an auditorium, exhibition rooms, the tourism office and spaces for cultural activities, workshops and congresses. Its main objectives are: to enhance rural heritage, bring culture closer to citizens, support local entities, offer educational activities and work for sustainable tourism. The workshop venue is just a short 10-minute walk away from the accomodation.
+[**Can Trona**](https://www.cantrona.cat/) (center of culture and nature of the Vall D'en Bas) is a facility with a study room, an auditorium, exhibition rooms, the tourism office and spaces for cultural activities, workshops, and congresses. Its main objectives are: to enhance rural heritage, bring culture closer to citizens, support local entities, offer educational activities, and work for sustainable tourism. The workshop venue is just a short 10-minute walk away from the accommodation.
 
 <img src="/assets/image24/venue/rourell.jpeg" width="100%"/><img src="/assets/image24/venue/mountains.jpeg" width="100%"/><img src="/assets/image24/venue/olot.jpeg" width="100%"/><img src="/assets/image24/venue/auditorium.jpeg" width="100%"/>
 
