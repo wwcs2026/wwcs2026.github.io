@@ -28,7 +28,7 @@ This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees 
 - Deadline for applications: **October 20th**
 - Notification of acceptance: **November 6th**
 
-The application form is available here.
+The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).
 
 # Contacts
 
