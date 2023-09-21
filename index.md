@@ -14,13 +14,13 @@ The **Winter Workshop on Complex Systems** is a one-week workshop where young re
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees from **January 22nd to Jan 26th 2024**. Previously it was held in [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
+This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees from **January 21st to Jan 26th 2024**. Previously it was held in [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
 
 # Important Dates
 
 ## Workshop Dates:
 
--   **January 22nd to Jan 26th 2024**
+-   **January 21st to Jan 26th 2024**
 
 ## Applications:
 
