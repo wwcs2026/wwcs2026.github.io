@@ -11,7 +11,7 @@ Dr. Alberto Aletá is a Spanish physicist and data scientist expert on the field
 
 Alberto’s work is characterised by the use of data driven approaches to model dynamical systems and a quest for unraveling the causal mechanisms behind the dynamics observed. His works often rely on the use of agent based models, network science, higher order networks and multivariate statistics. 
 
-Alberto obtained his PhD in Physics (Cum Laude) from the Universidad of Zaragoza in 2019 and then he did a postdoc stay at ISI Foundation (Torino, Italy) until 2022. Recently he has been granted a Ramón y Cajal fellowship and is currently working at the Department of Theoretical Physics at University of Zaragoza.
+Alberto obtained his PhD in Physics (Cum Laude) from the Universidad of Zaragoza in 2019 and then he did a postdoc stay at ISI Foundation (Torino, Italy) until 2022. Recently he has been granted a Ramón y Cajal fellowship and is currently working at the Instituto Universitario de Investigación de Biocomputación y Física de Sistemas Complejos (BIFI).
 
 *Other speakers TBA!*
 
