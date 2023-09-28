@@ -13,6 +13,14 @@ Alberto’s work is characterised by the use of data driven approaches to model 
 
 Alberto obtained his PhD in Physics (Cum Laude) from the Universidad of Zaragoza in 2019 and then he did a postdoc stay at ISI Foundation (Torino, Italy) until 2022. Recently he has been granted a Ramón y Cajal fellowship and is currently working at the Instituto Universitario de Investigación de Biocomputación y Física de Sistemas Complejos (BIFI).
 
+<img style="float: centre;" src="/assets/image24/speakers/sofia.jpeg" width="40%"/>
+
+[Andreia Sofia Teixeira](https://andreiasofiateixeira.com/)
+
+Andreia Sofia Teixeira is an Assistant Professor in the Department of Informatics at the Faculty of Sciences, University of Lisbon, and a Researcher at LASIGE, where she teaches in the domains of Complex Data Analysis and Machine Learning. Beyond her academic roles, she is an active member of scientific societies, including the Network Science Society's Executive Committee, the council of the Complex Systems Society, and the role of General Secretary within the Women in Network Science Society. 
+
+Sofia's research journey began with a focus on graph theory and network analysis from an edge-centric perspective moving towards developing measures, computational models, and simulation frameworks to unravel the intricate structure and dynamics of complex data and collective behavior within complex systems.
+
 *Other speakers TBA!*
 
 <!---
