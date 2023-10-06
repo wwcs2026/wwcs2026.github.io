@@ -21,6 +21,13 @@ Andreia Sofia Teixeira is an Assistant Professor in the Department of Informatic
 
 Sofia's research journey began with a focus on graph theory and network analysis from an edge-centric perspective moving towards developing measures, computational models, and simulation frameworks to unravel the intricate structure and dynamics of complex data and collective behavior within complex systems.
 
+
+<img style="float: centre;" src="/assets/image24/speakers/luce.png" width="40%"/>
+
+[Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/)
+
+Luce Prignano is a postdoctoral researcher at the University of Barcelona. She holds a degree in Physics form the “Sapienza” University in Rome and a PhD from the University of Barcelona with a thesis on complex networks. Former researcher at “Institut Català de Paleoecologia Humana i Evolució Social” (IPHES) where she worked on the analysis of protohistorical terrestrial communication networks. Founder of the cultural association heurística.barcelona where she develops research, educational and scientiffic comunication projects in collaboration with several entities from Barcelona (ClabB, Dribia, Tecnopolítica IN3) and Zaragaoza (Etopía).
+
 *Other speakers TBA!*
 
 <!---
