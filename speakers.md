@@ -26,7 +26,11 @@ Sofia's research journey began with a focus on graph theory and network analysis
 
 [Luce Prignano](https://www.dribia.com/team/phd-luce-prignano/)
 
-Luce Prignano is a postdoctoral researcher at the University of Barcelona. She holds a degree in Physics form the “Sapienza” University in Rome and a PhD from the University of Barcelona with a thesis on complex networks. Former researcher at “Institut Català de Paleoecologia Humana i Evolució Social” (IPHES) where she worked on the analysis of protohistorical terrestrial communication networks. Founder of the cultural association heurística.barcelona where she develops research, educational and scientiffic comunication projects in collaboration with several entities from Barcelona (ClabB, Dribia, Tecnopolítica IN3) and Zaragaoza (Etopía).
+Dr. Luce Prignano is the project manager at NGO Heurística, overseeing research, scientific communication, and interdisciplinary educational projects. She maintains collaborations with a broad spectrum of academic institutions, NGOs, and public organizations.
+
+Holding a PhD in Physics, Luce is currently affiliated with the Complex Systems Lab Barcelona (ClabB) and the University of Barcelona Institute of Complex Systems (UBICS). Her initial foray into transdisciplinary research was at the Catalan Institute of Human Paleoecology and Social Evolution (IPHES), where she learned to cooperate with professionals from diverse academic and scientific backgrounds.
+
+Her research adopts methodologies from Statistical Physics, Complex Systems, and Network Science to analyze past societies and explore the dynamics of human interactions.
 
 *Other speakers TBA!*
 
