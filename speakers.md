@@ -32,7 +32,11 @@ Holding a PhD in Physics, Luce is currently affiliated with the Complex Systems 
 
 Her research adopts methodologies from Statistical Physics, Complex Systems, and Network Science to analyze past societies and explore the dynamics of human interactions.
 
-*Other speakers TBA!*
+<img style="float: centre;" src="/assets/image24/speakers/marta.jpeg" width="40%"/>
+
+[Marta Sales Pardo](http://seeslab.info/researchers/sales-pardo/)
+
+Marta Sales-Pardo (Barcelona, 1976) graduated in Physics at Universitat de Barcelona in 1998, and obtained a PhD in Physics from Universitat de Barcelona in 2002. She then moved to Northwestern University, where she first worked as a postdoctoral fellow and, later, as a Fulbright Scholar. In 2008, she became a Research Assistant Professor at the Northwestern University Clinical and Translational Science Institute with joint appointments in the Department of Chemical and Biological Engineering and the Northwestern Institute on Complex Systems. In 2009, she accepted her current position as an Associate Professor in the Departament d'Engineyria Química at Universitat Rovira i Virgili.
 
 <!---
 <img style="float: centre;" src="/assets/image23/speakers/karolinewiesner.jpg" width="25%"/>
