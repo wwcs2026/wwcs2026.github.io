@@ -36,7 +36,9 @@ Her research adopts methodologies from Statistical Physics, Complex Systems, and
 
 [Marta Sales Pardo](http://seeslab.info/researchers/sales-pardo/)
 
-Marta Sales-Pardo (Barcelona, 1976) graduated in Physics at Universitat de Barcelona in 1998, and obtained a PhD in Physics from Universitat de Barcelona in 2002. She then moved to Northwestern University, where she first worked as a postdoctoral fellow and, later, as a Fulbright Scholar. In 2008, she became a Research Assistant Professor at the Northwestern University Clinical and Translational Science Institute with joint appointments in the Department of Chemical and Biological Engineering and the Northwestern Institute on Complex Systems. In 2009, she accepted her current position as an Associate Professor in the Departament d'Engineyria Química at Universitat Rovira i Virgili.
+Marta Sales-Pardo obtained a PhD in Physics from Universitat de Barcelona. She did her postdoctoral work at Northwestern University, where she was the recipient of a Fulbright Scholarship and later she became a Research Assistant Professor at the Northwestern University Clinical and Translational Science Institute with joint appointments in the Department of Chemical and Biological Engineering and the Northwestern Institute on Complex Systems. In 2009 she moved to Universitat Rovira i Virgili where she is now a Professor in the Department of Chemical Engineering and coleads the SEES lab with Roger Guimerà.
+
+In 2013 and 2021 she received an ICREA Acadèmia Award for her excellence in research. From 2019 until 2021 she was member of the Advisory Board of the McDonnell Foundation. Since 2021 she is a Fellow of the Network Science Society. Since July 2022 she is the president of the Catalan Complex Systems Society.
 
 <!---
 <img style="float: centre;" src="/assets/image23/speakers/karolinewiesner.jpg" width="25%"/>
