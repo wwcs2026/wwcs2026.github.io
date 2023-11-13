@@ -75,8 +75,11 @@ menu:
     url:   /committees/
   - title: Application
     url:   /application/
-     - title: Sponsors
-#    url:   /sponsors/
+  - title: Sponsors
+    url:   /sponsors/  
+  - title: Partners
+    url:   /partners/
+
 #  - title: Support
 #    url:   /support/
 
