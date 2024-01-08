@@ -13,3 +13,5 @@ title:  Sponsors
 <img href="https://www.fundacionsicomoro.org/" src="/assets/image24/cssfrance.jpeg" width="60%"/>
 
 <img href="https://www.fundacionsicomoro.org/" src="/assets/image24/upf_mdm.jpeg" width="60%"/>
+
+<img href="https://www.fundacionsicomoro.org/" src="/assets/image24/complexitat.jpeg" width="60%"/>
