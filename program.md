@@ -5,7 +5,7 @@ title:  Program
 
 **Main activities:**
 
--   Keynote talks: some invited speakers will present their work.
+-   Keynote talks: Alberto Aletá, Marta Sales-Pardo, and Sofia Teixeira will present their work.
 
 -   Tutorials: proposed and given by the participants on relevant topics.
 
@@ -13,8 +13,12 @@ title:  Program
 
 **Social activities:**
 
--   Social event in Barcelona before leaving for the venue.
+-   Social event in Barcelona before leaving for the venue at La Muriel (Carrer de Verntallat, 30).
 
--   Hike or bike trip around the Pyrenees.
+-   Guided tour of the Volcanic area
+
+-   Stargazing activity
+
+-   Night games and activities
 
 <img src="/assets/image24/program.png" width="100%"/>
