@@ -11,10 +11,10 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 | <img src="/assets/image24/committee/emma.jpg" width="120px" /> | <img src="/assets/image24/committee/elena.jpeg" width="120px" /> | <img src="/assets/image24/committee/fer.png" width="120px" /> |
 | Universidad Pompeu Fabra, <br> Barcelona, Spain | Utrecht University, <br> The Netherlands | IFISC, <br> Balearic Islands, Spain |
 
-| [Miguel Ángel González Casado]() | [Irene Ferri]() | [Ariadna Fosch Muntané]() |
-| :------------------------------: | :-----------------: | :------------------: |
-| <img src="/assets/image24/committee/miguel.png" width="120px" /> | <img src="/assets/image24/committee/irene.jpeg" width="120px" /> | <img src="/assets/image24/committee/ari.jpeg" width="120px" /> |
-| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | BIFI, <br> Zaragoza, Spain |
+| [Miguel Ángel González Casado]() | [Irene Ferri]() | [Ariadna Fosch Muntané]() | [Max Sina Knicker]() |
+| :------------------------------: | :-----------------: | :------------------: | :------------------: |
+| <img src="/assets/image24/committee/miguel.png" width="120px" /> | <img src="/assets/image24/committee/irene.jpeg" width="120px" /> | <img src="/assets/image24/committee/ari.jpeg" width="120px" /> |  <img src="/assets/image24/committee/max.jpeg" width="120px" /> |
+| Universidad Carlos III, <br> Madrid, Spain | UBICS, <br> Barcelona, Spain | BIFI, <br> Zaragoza, Spain | Ecole Polytechnique, <br> Paris, France |
 
 ## Steering Committee
 
