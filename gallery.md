@@ -9,3 +9,5 @@ title: Gallery
 ![alt](/assets/image24/gallery/IMG_8373.jpeg)
 ![alt](/assets/image24/gallery/IMG_8418.jpeg)
 ![alt](/assets/image24/gallery/IMG_8471.jpeg)
+![alt](/assets/image24/gallery/IMG_8484.jpeg)
+![alt](/assets/image24/gallery/IMG_8512.jpeg)
