@@ -11,7 +11,7 @@ We implemented the [Information Theory of Individuality](https://link.springer.c
 
 
 ## Capturing Emergence with NCA
-by Alfredo de Bellis, Darja Cvetković, Akanksha Gupta, Max Sina Knicker, Elias Najarro, Rasha Shanaz Nissar Mohamed, and Eider Pérez-Ordoyo Bellido.
+by Alfredo de Bellis, Darja Cvetković, Akanksha Gupta, Max Sina Knicker, Elias Najarro, Rasha Shanaz, and Eider Pérez-Ordoyo Bellido.
 
 **Abstract:**
 Can neural cellular automata (NCA) learn the underlying dynamics of the system? We trained and tested NCA models on [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) and Paris population data.
