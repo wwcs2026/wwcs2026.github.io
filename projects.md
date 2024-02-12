@@ -42,4 +42,4 @@ We trace the evolution and potential erosion of social institutions using the ex
 by Gemma Bel, Annalisa Caligiuri, Christos Charalambous, Laura Dozal, Michael Gachomba, and Kyriacos Nicolaou
 
 **Abstract:**
-
+We implemented a complex system analysis of trophallaxis interactions in honeybee colonies. We investigated the presence of time correlations in trophallaxis networks, explored individual differences based on bees’ behavioral attributes, and suggested approaches to examine the relationship between burstiness and spreading dynamics comparing honeybee and human temporal networks. 
