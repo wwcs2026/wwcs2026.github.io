@@ -6,8 +6,7 @@ title:  Projects
 ## Information theory of individuality
 by Todd Davies, Deniz Durmus, Juan Gancio, Akanksha Khurd, Sara Neven, Patrick Schwabl, Antoine Vendeville, and Sebastian Zimper.
 
-**Abstract**
-
+**Abstract:**
 We implemented the [Information Theory of Individuality](https://link.springer.com/article/10.1007/s12064-020-00313-7) in a simple version of the [Voter Model](https://en.wikipedia.org/wiki/Voter_model), with the aim of detecting the emergence of ‘individual’ voting blocks.
 
 
@@ -41,5 +40,6 @@ We trace the evolution and potential erosion of social institutions using the ex
 
 ## Collective dynamics in honeybee colonies (kissing bees)
 by Gemma Bel, Annalisa Caligiuri, Christos Charalambous, Laura Dozal, Michael Gachomba, and Kyriacos Nicolaou
+
 **Abstract:**
 
