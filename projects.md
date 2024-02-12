@@ -3,10 +3,6 @@ layout: page
 title:  Projects
 ---
 
-# Projects
-
-
-
 ## Information theory of individuality
 by Todd Davies, Deniz Durmus, Juan Gancio, Akanksha Khurd, Sara Neven, Patrick Schwabl, Antoine Vendeville, and Sebastian Zimper.
 
