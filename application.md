@@ -3,7 +3,7 @@ layout: page
 title:  Application
 ---
 
-To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
+<!-- To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: **September 20th**
 - Deadline for applications: ~~October 20th~~ **October 25th**
@@ -26,7 +26,7 @@ The workshop will exclusively be an onsite event. In case of restrictions due to
 
 ## Accommodation
 
-We will provide you with shared rooms at [El Rourell](https://www.corriolserveis.com/) in the Catalan Pyrenees. 
+We will provide you with shared rooms at [El Rourell](https://www.corriolserveis.com/) in the Catalan Pyrenees.  -->
 
 <!---
 We will split the rooms based on gender. In case you prefer to have a single room, please send us an email to [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com).

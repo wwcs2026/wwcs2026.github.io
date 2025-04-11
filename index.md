@@ -14,25 +14,26 @@ The **Winter Workshop on Complex Systems** is a one-week workshop where young re
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 9th edition of the WWCS and it will be held in the Catalan Pyrenees from **January 21st to Jan 26th 2024**. Previously it was held in [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), and Brussels.
+This is the 11th edition of the WWCS and it will be held in the *[Santuari de Lluc](https://santuaridelluc.com/es/)* (Mallorca, Spain) from **the 25th to the 30th of January 2026**. Previously it was held in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
 
 # Important Dates
 
 ## Workshop Dates:
 
--   **January 21st to Jan 26th 2024**
+-   **25th to 30th of January  2026**
 
 ## Applications:
 
-- Start of applications: **September 20th**
-- Deadline for applications: ~~October 20th~~ **October 25th**
+- Start of applications: **August 25th**
+- Deadline for applications: **September 25th**
 - Notification of acceptance: **November 6th**
 
-The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9).
+<!-- The application form is available [here](https://forms.gle/wUn8vCVpjqXkvCjd9). -->
+More details about the application process will be provided soon.
 
 # Contacts
 
-Email us at: [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) <!-- Twitter: "@winter_complex" -->
+Email us at: [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) <!-- Twitter: "@winter_complex" -->
 
 <center>
 <a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>

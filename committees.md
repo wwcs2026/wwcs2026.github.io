@@ -2,7 +2,7 @@
 layout: page
 title:  Committees
 ---
-
+<!-- 
 You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write us directly using the following information.
 ## Scientific Committee
 
@@ -31,4 +31,4 @@ You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write u
 | Karoline Huth | Jonas Haslbeck |
 | :-----------: | :-----------: |
 | <img src="/assets/image24/committee/karoline.jpg" width="120px" /> | <img src="/assets/image24/committee/jonas.jpg" width="120px" /> |
-| University van Amsterdam, <br> The Netherlands | Maastricht University, <br> The Netherlands |
+| University van Amsterdam, <br> The Netherlands | Maastricht University, <br> The Netherlands | -->

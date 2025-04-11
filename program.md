@@ -2,7 +2,7 @@
 layout: page
 title:  Program
 ---
-
+<!-- 
 **Main activities:**
 
 -   Keynote talks: Alberto Aletá, Marta Sales-Pardo, and Sofia Teixeira will present their work.
@@ -21,4 +21,4 @@ title:  Program
 
 -   Night games and activities
 
-<img src="/assets/image24/program.png" width="100%"/>
+<img src="/assets/image24/program.png" width="100%"/> -->

@@ -2,7 +2,7 @@
 layout: page
 title:  Venue
 ---
-
+<!-- 
 # Accomodation
 
 [**El Rourell**](https://elrourell.com/el-rourell/) is located in a privileged location in the Vall d'en Bas, next to the Natural Park of the Garrotxa Volcanic Zone. It is situated just a 1 hour and 30-minute car ride from Barcelona. The venue boasts shared rooms with bunk beds and two spacious meeting rooms, along with an inviting outdoor space. The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
@@ -17,4 +17,4 @@ title:  Venue
 
 [El Rourell on Google Maps](https://goo.gl/maps/x1LmRdbUqrosUoc46?coh=178573&entry=tt)
 
-Barcelona is easily reachable by train or plane. We will leave from there on Sunday night, after the social event.
+Barcelona is easily reachable by train or plane. We will leave from there on Sunday night, after the social event. -->

@@ -2,7 +2,7 @@
 layout: page
 title:  Speakers
 ---
-
+<!-- 
 <img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="40%"/>
 
 [Alberto Aletá](https://aaleta.github.io/)
@@ -38,7 +38,7 @@ Her research adopts methodologies from Statistical Physics, Complex Systems, and
 
 Marta Sales-Pardo obtained a PhD in Physics from Universitat de Barcelona. She did her postdoctoral work at Northwestern University, where she was the recipient of a Fulbright Scholarship and later she became a Research Assistant Professor at the Northwestern University Clinical and Translational Science Institute with joint appointments in the Department of Chemical and Biological Engineering and the Northwestern Institute on Complex Systems. In 2009 she moved to Universitat Rovira i Virgili where she is now a Professor in the Department of Chemical Engineering and coleads the SEES lab with Roger Guimerà.
 
-In 2013 and 2021 she received an ICREA Acadèmia Award for her excellence in research. From 2019 until 2021 she was member of the Advisory Board of the McDonnell Foundation. Since 2021 she is a Fellow of the Network Science Society. Since July 2022 she is the president of the Catalan Complex Systems Society.
+In 2013 and 2021 she received an ICREA Acadèmia Award for her excellence in research. From 2019 until 2021 she was member of the Advisory Board of the McDonnell Foundation. Since 2021 she is a Fellow of the Network Science Society. Since July 2022 she is the president of the Catalan Complex Systems Society. -->
 
 <!---
 <img style="float: centre;" src="/assets/image23/speakers/karolinewiesner.jpg" width="25%"/>
