@@ -14,7 +14,7 @@ The **Winter Workshop on Complex Systems** is a one-week workshop where young re
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 11th edition of the WWCS and it will be held in the *[Santuari de Lluc](https://santuaridelluc.com/es/)* (Mallorca, Spain) from **the 25th to the 30th of January 2026**. Previously it was held in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
+This is the 11th edition of the WWCS and it will be held in Mallorca (Spain) from **the 25th to the 30th of January 2026**. Previously it was held in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
 
 # Important Dates
 
