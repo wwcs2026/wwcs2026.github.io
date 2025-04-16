@@ -10,11 +10,11 @@ layout: about #home il layout home ti mette la lista di pagine
 <img src="/assets/image24/logo_no.png" width="60%"/>
 </center>
 
-The **Winter Workshop on Complex Systems** is a one-week event where young researchers from around the world come together to collaborate on interdisciplinary projects, all driven by a shared curiosity for complex systems.
+The **Winter Workshop on Complex Systems** is a one-week event where young researchers worldwide come together to work on interdisciplinary projects  in the field of complex systems.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — as this will be its 11th edition. This year, the event will be held in Mallorca (Spain) from **the 25th to the 30th of January 2026**. Previously, it has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
+The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — and 2026 will mark its 11th edition. The upcoming event will be held in Mallorca (Spain) from **the 25th to the 30th of January 2026**. Previously, it has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
 
 # Important Dates
 

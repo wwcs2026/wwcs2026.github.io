@@ -15,4 +15,4 @@ The workshop originates from the initiative of a few individuals attending the [
 
 For general information about WWCS and the last editions check our [Twitter](https://twitter.com/winter_complex).
 
-<center><img src="/assets/image24/award.jpeg" width="80%"/></center>
+<center><img src="/assets/image26/award.jpeg" width="80%"/></center>
