@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Program
+image_base: /assets/image26/
 ---
 <!-- 
 **Main activities:**

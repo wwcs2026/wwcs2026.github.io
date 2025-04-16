@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Speakers
+image_base: /assets/image26/speakers/
 ---
 <!-- 
 <img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="40%"/>

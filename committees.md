@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Committees
+image_base: /assets/image26/committee/
 ---
 <!-- 
 You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write us directly using the following information.

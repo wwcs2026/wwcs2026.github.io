@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Partners
+image_base: /assets/image26/sponsors/
 ---
 
 <!-- &nbsp; &nbsp; &nbsp;

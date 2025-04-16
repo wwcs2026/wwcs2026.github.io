@@ -1,6 +1,7 @@
 ---
 layout: about
 title:  About
+image_base: /assets/image26/
 ---
 
 The Winter Workshop on Complex Systems (**WWCS**) is more than just an opportunity to collaborate on research projects —  it’s also a chance to meet people from diverse backgrounds and disciplines who share a common interest in complexity science, all within a friendly and collaborative environment. The workshop is designed as a week-long gathering that brings together young researchers from around the world, with diverse academic profiles, united by their curiosity for complexity science and their drive to work on novel, interdisciplinary projects.
@@ -15,4 +16,4 @@ The workshop originates from the initiative of a few individuals attending the [
 
 For general information about WWCS and the last editions check our [Twitter](https://twitter.com/winter_complex).
 
-<center><img src="/assets/image26/award.jpeg" width="80%"/></center>
+<center><img src="{{ page.image_base }}award.jpeg" width="80%"/></center>

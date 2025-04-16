@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Venue
+image_base: /assets/image26/venue/
 ---
 <!-- 
 # Accomodation

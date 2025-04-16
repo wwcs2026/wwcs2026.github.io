@@ -2,12 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
+image_base: /assets/image26/logo/
 #title: Winter Workshop on Complex Systems 2024
 
 ---
 
 <center>
-<img src="/assets/image24/logo_no.png" width="60%"/>
+<img src="{{ page.image_base }}logo_no.png" width="60%"/>
 </center>
 
 The **Winter Workshop on Complex Systems** is a one-week event where young researchers worldwide come together to work on interdisciplinary projects  in the field of complex systems.
