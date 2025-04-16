@@ -14,13 +14,13 @@ The **Winter Workshop on Complex Systems** is a one-week event where young resea
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — as this will be its 11th edition. This year, the workshop will be held in Mallorca (Spain) from **the 25th to the 30th of January 2026**. Previously, the workshop has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
+The workshop already has a long history — you can learn more about its journey in the [About](https://wwcs2026.github.io/about) section — as this will be its 11th edition. This year, the event will be held in Mallorca (Spain) from **the 25th to the 30th of January 2026**. Previously, it has been hosted in [Lombardy](https://wwcs2025.github.io/), [La Vall d'en Bas](https://wwcs2024.github.io/), [Amsterdam](https://wwcs2023.github.io/), [Besançon](https://wwcs2022.github.io/), [Charmey](https://wwcs2020.github.io/), Zakopane, [Utrecht](https://wwcs2018.github.io/), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), Madrid, and Brussels.
 
 # Important Dates
 
 ## Workshop Dates:
 
--   **25th to 30th of January  2026**
+-   **25th to 30th of January 2026**
 
 ## Applications:
 
