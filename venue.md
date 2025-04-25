@@ -3,6 +3,19 @@ layout: page
 title:  Venue
 image_base: /assets/image26/venue/
 ---
+
+# Venue
+
+[Santuari de Lluc](https://www.lluc.net/en/) is an ancient monastery located in the heart of the Serra de Tramuntana, an outstanding mountain range in the north of Mallorca Island. This spiritual center has been a pilgrimage site for centuries, making it an ideal place for studying, connection with nature, and immersion in the region’s culture.
+
+The venue offers shared rooms with private bathrooms and three spacious meeting rooms that can be adapted for presentations or collaborative work. It also features inviting outdoor areas — not only within the accommodation grounds, which even include a botanical garden, but also throughout the surrounding Tramuntana mountains, with numerous hiking routes suitable for all levels.
+
+The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
+
+## Travel information
+
+Palma de Mallorca is easily accessible by plane, with direct flights from most European countries. The venue is approximately a one-hour drive from Palma, which will serve as the meeting point for the event. We will depart from Palma on Sunday evening, after the social event. More details about the exact meeting point will be updated closer to the date.
+
 <!-- 
 # Accomodation
 
