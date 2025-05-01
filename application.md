@@ -3,6 +3,8 @@ layout: page
 title:  Application
 ---
 
+The application will open on 25th of August. We will ask for a CV, a motivation letter, and completion of an application form, which will be posted in this section. Closer to the date, we will also update the information about the fee, what it includes, the rooms, and possible grants.
+
 <!-- To attend the Winter Workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: **September 20th**
@@ -15,7 +17,7 @@ We aim to create an inclusive, diverse, sociable, and motivated group of young r
 
 ## Registration
 
-The workshop registration fee is 350EUR and it includes:
+The workshop registration fee is 400EUR and it includes:
 - Accommodation from Sunday to Friday (5 nights)
 - Breakfast, lunch, and dinners at the accommodation
 - Coffee breaks at the venue

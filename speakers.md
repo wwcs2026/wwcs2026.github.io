@@ -3,6 +3,9 @@ layout: page
 title:  Speakers
 image_base: /assets/image26/speakers/
 ---
+
+The list of invited speakers is not ready yet, but once it is, you will find a description of their work and research here. Our speakers will cover a range of relevant themes in complex systems science, such as social science, network science, collective behavior, or other key areas.
+
 <!-- 
 <img style="float: centre;" src="/assets/image24/speakers/alberto.jpeg" width="40%"/>
 
