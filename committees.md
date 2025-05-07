@@ -125,7 +125,7 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write u
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
   <div class="committee-member">
-    <img src="/assets/image26/committees/organizing/sara.jpg" alt="Sara Oliver Bonafoux">
+    <img src="/assets/image26/committees/organizing/sara.JPG" alt="Sara Oliver Bonafoux">
     <p><strong>Sara Oliver Bonafoux</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
