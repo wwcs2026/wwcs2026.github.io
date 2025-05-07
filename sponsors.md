@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Sponsors
+image_base: /assets/image26/sponsors/
 ---
 <!--
 &nbsp; &nbsp; &nbsp;

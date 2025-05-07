@@ -1,7 +1,11 @@
 ---
 layout: page
 title:  Program
+image_base: /assets/image26/
 ---
+
+ The program of the workshop is not decided yet, but it will include talks by invited speakers, tutorials proposed and given by participants, and time for developing group projects. There will also be non-academic activities aimed at socializing with other participants.
+
 <!-- 
 **Main activities:**
 

@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              wwcs2024
-  email:             wwcs2024@gmail.com
+  name:              wwcs2026
+  email:             wwcs2026@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,7 +27,7 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     twitter:         winter_complex
-    github:          wwcs2024
+    github:          wwcs2026
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
