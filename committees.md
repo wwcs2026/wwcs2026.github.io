@@ -129,11 +129,11 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write u
     <p><strong>Sara Oliver Bonafoux</strong></p>
     <p><em>IFISC, Balearic Islands, Spain</em></p>
   </div>
-  <div class="committee-member">
-    <img src="{{ page.image_base }}organizing/anna.jpeg" alt="Anna Maria Boros">
+  <!--<div class="committee-member">
+    <img src="/assets/image26/committees/organizing/anna.jpeg" alt="Anna Maria Boros">
     <p><strong>Anna Maria Boros</strong></p>
     <p><em>Interdisciplinary Doctoral School, University of Warsaw, Poland</em></p>
-  </div>
+  </div>-->
 </div>
 
 ## Steering Committee
