@@ -66,17 +66,17 @@
   </a>
 
   <a class="sponsor-link" href="https://ifisc.uib-csic.es/en/" target="_blank">
-    <div class="sponsor-card">
-      <div class="sponsor-logo">
-        <img src="/assets/image26/sponsors/ifisc.jpeg" alt="IFISC logo">
+      <div class="sponsor-card">
+        <div class="sponsor-logo">
+          <img src="/assets/image26/sponsors/ifisc.jpeg" alt="IFISC logo">
+        </div>
+        <div class="sponsor-details">
+          <h3>IFISC (Institute for Cross-Disciplinary Physics and Complex Systems)</h3>
+          <p>IFISC is a joint research institute of the University of the Balearic Islands (UIB) and the Spanish National Research Council (CSIC) whose mission is to develop Cross-Disciplinary and Strategic Research in complex systems following the established scientific approach of physicists.</p>
+        </div>
       </div>
-      <div class="sponsor-details">
-        <h3>IFISC (Institute for Cross-Disciplinary Physics and Complex Systems)</h3>
-        <p>IFISC is a joint research institute of the University of the Balearic Islands (UIB) and the Spanish National Research Council (CSIC) whose mission is to develop Cross-Disciplinary and Strategic Research in complex systems following the established scientific approach of physicists.</p>
-      </div>
-    </div>
   </a>
-    
+
   <!--<a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
