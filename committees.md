@@ -107,7 +107,7 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write u
   <div class="committee-member">
     <img src="{{ page.image_base }}organizing/elena.jpg" alt="Elena García de Lamo">
     <p><strong>Elena García de Lamo</strong></p>
-    <p><em>Universitat Politècnica de Cataluyna, Barcellona, Spain</em></p>
+    <p><em>Universitat Politècnica de Cataluyna, Barcelona, Spain</em></p>
   </div>
   <div class="committee-member">
     <img src="{{ page.image_base }}organizing/jaume.jpg" alt="Jaume Llabrés Rubio">
