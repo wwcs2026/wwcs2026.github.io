@@ -59,7 +59,7 @@
         <img src="/assets/image26/sponsors/uib.png" alt="University of the Balearic Islands logo">
       </div>
       <div class="sponsor-details">
-        <h3>University of the Balearic Islands</h3>
+        <h3>University of the Balearic Islands (UIB)</h3>
         <p>The UIB is a cutting-edge university for teaching and research. It has deep roots in the region and is committed to society, sowing values that honour humanity with an ever-increasing international calling.</p>
       </div>
     </div>
@@ -71,8 +71,8 @@
           <img src="/assets/image26/sponsors/ifisc.jpeg" alt="IFISC logo">
         </div>
         <div class="sponsor-details">
-          <h3>IFISC (Institute for Cross-Disciplinary Physics and Complex Systems)</h3>
-          <p>IFISC is a joint research institute of the University of the Balearic Islands (UIB) and the Spanish National Research Council (CSIC) whose mission is to develop Cross-Disciplinary and Strategic Research in complex systems following the established scientific approach of physicists.</p>
+          <h3>Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)</h3>
+          <p>IFISC is a joint research institute of the UIB and the Spanish National Research Council (CSIC) whose mission is to develop Cross-Disciplinary and Strategic Research in complex systems following the established scientific approach of physicists.</p>
         </div>
       </div>
   </a>
