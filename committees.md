@@ -62,7 +62,7 @@ body {
 </style>
 
 <!-- 
-You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write us directly using the following information.
+You can contact us at [wwcs2024@gmail.com](mailto:wwcs2024@gmail.com) or write to us directly using the following information.
 ## Scientific Committee
 
 | [Emma Fraxanet](https://emmafrax.github.io/) | [Elena Candellone](https://elenacandellone.github.io/) | [Fernando Diaz Diaz]() |
