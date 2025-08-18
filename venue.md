@@ -37,7 +37,7 @@ The venue offers double rooms with private bathrooms and spacious meeting rooms 
 
 The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
 
-<img src="{{ page.image_base }}santuaridelluc.jpeg" width="100%"/>
+<img src="{{ page.image_base }}santuaridelluc.jpeg" width="100%" alt="Santuari de Lluc, building"/>
 
 <div class="image-row">
   <div class="image-col" style="flex: 3;">
@@ -52,23 +52,21 @@ The venue takes care of all your meals and coffee breaks, considering various di
 
 Palma de Mallorca is easily accessible by plane, with direct flights from most European countries. [Check whether your city has direct flights](https://www.flightconnections.com/flights-to-palma-de-mallorca-pmi). 
 
-The venue is approximately a one-hour drive from Palma, which will serve as the meeting point for the event. We will depart from Palma on Sunday evening, after the social event. More details about the exact meeting point will be updated closer to the date.
+The venue is approximately a one-hour drive from Palma, which will serve as the meeting point for the event. We will depart from Palma on Sunday evening, after the social event. The meeting point will be Casal de Barri Es Jonquet, located at Carrer Terrer, 10. This historic building, a preserved old windmill, offers beautiful views of the city and the port. It can be reached in about 15 minutes by car from the airport and is also accessible via a direct bus line.
+
+
+<div class="image-row">
+  <div class="image-col" style="flex: 3;">
+    <img src="{{ page.image_base }}es_jonquet_view.png" alt="Es Jonquet view">
+  </div>
+  <div class="image-col" style="flex: 2;">
+    <img src="{{ page.image_base }}es_jonquet.jpg" alt="Casal de Barri Es Jonquet">
+  </div>
+</div>
+
+ 
+
+[Casal de Barri Es Jonquet in Goolge Maps](https://maps.app.goo.gl/sB7wmCjpzLr5WrUn8)
 
 [Santuari de Lluc in Goolge Maps](https://maps.app.goo.gl/U1ga8xL8L5AyfhVHA)
 
-<!-- 
-# Accomodation
-
-[**El Rourell**](https://elrourell.com/el-rourell/) is located in a privileged location in the Vall d'en Bas, next to the Natural Park of the Garrotxa Volcanic Zone. It is situated just a 1 hour and 30-minute car ride from Barcelona. The venue boasts shared rooms with bunk beds and two spacious meeting rooms, along with an inviting outdoor space. The venue takes care of all your meals and coffee breaks, considering various dietary requirements, including vegan, vegetarian, gluten-free, and allergy restrictions.
-
-# Workshop venue
-
-[**Can Trona**](https://www.cantrona.cat/) (center of culture and nature of the Vall D'en Bas) is a facility with a study room, an auditorium, exhibition rooms, the tourism office and spaces for cultural activities, workshops, and congresses. Its main objectives are: to enhance rural heritage, bring culture closer to citizens, support local entities, offer educational activities, and work for sustainable tourism. The workshop venue is just a short 10-minute walk away from the accommodation.
-
-<img src="/assets/image24/venue/rourell.jpeg" width="100%"/><img src="/assets/image24/venue/mountains.jpeg" width="100%"/><img src="/assets/image24/venue/olot.jpeg" width="100%"/><img src="/assets/image24/venue/auditorium.jpeg" width="100%"/>
-
-## Travel Information:
-
-[El Rourell on Google Maps](https://goo.gl/maps/x1LmRdbUqrosUoc46?coh=178573&entry=tt)
-
-Barcelona is easily reachable by train or plane. We will leave from there on Sunday night, after the social event. -->
