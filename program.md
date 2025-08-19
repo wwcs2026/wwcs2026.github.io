@@ -243,7 +243,8 @@ document.getElementById('btPrint').addEventListener('click', function() {
         const title = "WWCS 2026 Timetable";
         doc.setFontSize(18);
         doc.setFont("Noto Sans", "bold");
-        doc.text(title, pdfWidth / 2, 30, { align: 'center' });
+        const textWidth = doc.getTextWidth(title);
+        doc.text(title, (pdfWidth - textWidth) / 2, 30);
 
 
         // Image original dimensions
