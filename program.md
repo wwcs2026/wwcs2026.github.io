@@ -222,7 +222,11 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
     </table>
 </div>
 
-<button id="btPrint" class="download-btn">Download PDF</button>
+<p>
+    <input type="button" value="Download PDF on computer" id="btPrint" />
+</p>
+
+<button id="btPrint" class="download-btn">Download PDF on mobile</button>
 
 <script>
 document.getElementById('btPrint').addEventListener('click', function() {
@@ -257,16 +261,6 @@ document.getElementById('btPrint').addEventListener('click', function() {
 </script>
 
 
-<!-- 
-Good method to obtain a pdf in computer but doesn't work for mobile
-
-<p>
-    <input type="button" value="Download PDF" id="btPrint" />
-</p>
-
-
-
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('btPrint').addEventListener('click', function() {
@@ -296,4 +290,4 @@ document.addEventListener("DOMContentLoaded", function() {
         win.print();
     });
 });
-</script> -->
+</script> 
