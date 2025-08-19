@@ -225,7 +225,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
 
 <script>
-    function createPDF() {
+    window.createPDF = function() {
         var sTable = document.getElementById('tab').innerHTML;
 
         var style = "<style>";
