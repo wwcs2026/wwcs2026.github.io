@@ -7,20 +7,21 @@ image_base: /assets/image26/
 <style> 
     /* Responsive wrapper for mobile portability*/
     .table-container {
-        width: 90%;
+        width: 100%;
         overflow-x: auto; /* enables horizontal scroll */
         -webkit-overflow-scrolling: touch; /* smooth on mobile */
         margin: 0 auto;
     }
     
     table {
-        font-size: 80%;
+        font-size: 70%;
         border-collapse: collapse;
         margin: 20px auto;
         background-color: #ffffff; 
         border: 2px solid #dee2e6;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-        max-width: 900px; /* this controls how muchs screen takes */
+        width: 100%;
+        max-width: 800px; /* this controls how muchs screen takes */
         table-layout: fixed; /* keeps columns aligned */
         min-width: 400px; /* prevents squishing too much */
     }
@@ -41,7 +42,7 @@ image_base: /assets/image26/
         text-align: left;
         padding-left: 15px;
         font-weight: bold;
-        width: 120px;
+        width: 100px;
     }
 
     /* Table cathegories colors */
@@ -58,7 +59,7 @@ image_base: /assets/image26/
 
     
     /* Small screens for mobile portability */
-    @media (max-width: 768px) {
+    @media (max-width: 668px) {
         table {
             font-size: 75%; /* smaller text */
         }
@@ -112,6 +113,11 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 -   Stargazing activity if the weather allows.
 
 -   Night games and activities.
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
 
 <div id="tab">
     <table>
@@ -216,6 +222,51 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
     </table>
 </div>
 
+<button id="btPrint" class="download-btn">Download PDF</button>
+
+
+<script>
+document.getElementById('btPrint').addEventListener('click', function() {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF('p', 'pt', 'a4'); // portrait, points, A4
+
+    const element = document.getElementById('tab');
+
+    html2canvas(element, { scale: 2 }).then(canvas => {
+        const imgData = canvas.toDataURL('image/png');
+
+        // PDF page dimensions
+        const pdfWidth = doc.internal.pageSize.getWidth();
+        const pdfHeight = doc.internal.pageSize.getHeight();
+
+        // Add a title
+        const title = "WWCS 2026 Timetable";
+        doc.setFontSize(18);
+        doc.setFont("Noto Sans", "bold");
+        doc.text(title, pdfWidth / 2, 30, { align: 'center' });
+
+
+        // Image original dimensions
+        const imgWidth = canvas.width;
+        const imgHeight = canvas.height;
+
+        // Scale to fit page
+        const scale = Math.min(pdfWidth / imgWidth, pdfHeight / imgHeight);
+        const imgPDFWidth = imgWidth * scale-60;
+        const imgPDFHeight = imgHeight * scale-60;
+
+        // Center the table
+        const x = (pdfWidth - imgPDFWidth) / 2;
+
+        doc.addImage(imgData, 'PNG', x, 70, imgPDFWidth, imgPDFHeight);
+        doc.save('WWCS2026_timetable.pdf');
+    });
+});
+</script>
+
+<!-- 
+Good method to obtain a pdf in computer but doesn't work for mobile
+
 <p>
     <input type="button" value="Download PDF" id="btPrint" />
 </p>
@@ -252,4 +303,4 @@ document.addEventListener("DOMContentLoaded", function() {
         win.print();
     });
 });
-</script>
+</script> -->
