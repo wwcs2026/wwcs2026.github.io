@@ -224,46 +224,38 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
 <button id="btPrint" class="download-btn">Download PDF</button>
 
-
 <script>
 document.getElementById('btPrint').addEventListener('click', function() {
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF('p', 'pt', 'a4'); // portrait, points, A4
 
+    const pdfWidth = doc.internal.pageSize.getWidth();
+    const pdfHeight = doc.internal.pageSize.getHeight();
+
+    // ===== Add Title =====
+    const title = "WWCS 2026 Timetable";
+    doc.setFontSize(18);
+    doc.setFont("helvetica", "bold");
+    const textWidth = doc.getTextWidth(title);
+    doc.text(title, (pdfWidth - textWidth) / 2, 30);
+
+    // ===== Add Table =====
     const element = document.getElementById('tab');
-
-    html2canvas(element, { scale: 2 }).then(canvas => {
+    html2canvas(element, { scale: 2 }).then(function(canvas) {
         const imgData = canvas.toDataURL('image/png');
+        const tableY = 50; // start just below the title
 
-        // PDF page dimensions
-        const pdfWidth = doc.internal.pageSize.getWidth();
-        const pdfHeight = doc.internal.pageSize.getHeight();
+        const scale = Math.min(pdfWidth / canvas.width, (pdfHeight - tableY - 20) / canvas.height);
+        const tableWidth = canvas.width * scale-60;
+        const tableHeight = canvas.height * scale-60;
+        const tableX = (pdfWidth - tableWidth) / 2;
 
-        // Add a title
-        const title = "WWCS 2026 Timetable";
-        doc.setFontSize(18);
-        doc.setFont("Noto Sans", "bold");
-        const textWidth = doc.getTextWidth(title);
-        doc.text(title, (pdfWidth - textWidth) / 2, 30);
-
-
-        // Image original dimensions
-        const imgWidth = canvas.width;
-        const imgHeight = canvas.height;
-
-        // Scale to fit page
-        const scale = Math.min(pdfWidth / imgWidth, pdfHeight / imgHeight);
-        const imgPDFWidth = imgWidth * scale-60;
-        const imgPDFHeight = imgHeight * scale-60;
-
-        // Center the table
-        const x = (pdfWidth - imgPDFWidth) / 2;
-
-        doc.addImage(imgData, 'PNG', x, 70, imgPDFWidth, imgPDFHeight);
+        doc.addImage(imgData, 'PNG', tableX, tableY, tableWidth, tableHeight);
         doc.save('WWCS2026_timetable.pdf');
     });
 });
 </script>
+
 
 <!-- 
 Good method to obtain a pdf in computer but doesn't work for mobile
