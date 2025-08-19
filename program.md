@@ -217,48 +217,39 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 </div>
 
 <p>
-    <input type="button" value="Download PDF" 
-        id="btPrint" onclick="createPDF()" />
+    <input type="button" value="Download PDF" id="btPrint" />
 </p>
 
 
 
 
 <script>
-    window.createPDF = function() {
+document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById('btPrint').addEventListener('click', function() {
         var sTable = document.getElementById('tab').innerHTML;
 
         var style = "<style>";
-        style = style + "table {width: 100%;font: 17px Poppins;}";
-        style = style + "table, th, td {border: solid 2px #DDD; border-collapse: collapse;margin: 20px auto; background-color: #ffffff;";
-        style = style + "padding: 2px 3px;text-align: center;}";
-        style = style + "td.arrival { background-color: #d9d9d9 !important; }";
-        style = style + "td.socialActivities { background-color: #80b1d3 !important; }";
-        style = style + "td.keynoteTalks { background-color: #bebada !important; }";
-        style = style + "td.meals { background-color: #fdb462 !important; }";
-        style = style + "td.coffeebreak { background-color: #ffffb3 !important; }";
-        style = style + "td.tutorials { background-color: #bc80bd !important; }";
-        style = style + "td.projects { background-color: #fccde5 !important; }";
-        style = style + "td.freeTime { background-color: #b3de69 !important; }";
-        style = style + "td.nightActivities { background-color: #8dd3c7 !important; }";
-        style = style + "td.introClosingEvent { background-color: #fb8072 !important; }";
+        style += "table {width: 100%; font: 17px Calibri; border-collapse: collapse;}";
+        style += "th, td {border: 2px solid #DDD; padding: 2px 3px; text-align: center;}";
+        style += "td.arrival { background-color: #d9d9d9 !important; }";
+        style += "td.socialActivities { background-color: #80b1d3 !important; }";
+        style += "td.keynoteTalks { background-color: #bebada !important; }";
+        style += "td.meals { background-color: #fdb462 !important; }";
+        style += "td.coffeebreak { background-color: #ffffb3 !important; }";
+        style += "td.tutorials { background-color: #bc80bd !important; }";
+        style += "td.projects { background-color: #fccde5 !important; }";
+        style += "td.freeTime { background-color: #b3de69 !important; }";
+        style += "td.nightActivities { background-color: #8dd3c7 !important; }";
+        style += "td.introClosingEvent { background-color: #fb8072 !important; }";
         style += "@media print { table, th, td { -webkit-print-color-adjust: exact; print-color-adjust: exact; } }";
-        style = style + "</style>";
+        style += "</style>";
 
-        // CREATE A WINDOW OBJECT.
         var win = window.open('', '', 'height=700,width=700');
-
-        win.document.write('<html><head>');
-        win.document.write('<title>Timetable for WWCS 2026</title>');   // <title> FOR PDF HEADER.
-        win.document.write(style);          // ADD STYLE INSIDE THE HEAD TAG.
-        win.document.write('</head>');
-        win.document.write('<body>');
-        win.document.write(sTable);         // THE TABLE CONTENTS INSIDE THE BODY TAG.
+        win.document.write('<html><head><title>Timetable for WWCS 2026</title>' + style + '</head><body>');
+        win.document.write(sTable);
         win.document.write('</body></html>');
-
-        win.document.close();   // CLOSE THE CURRENT WINDOW.
-
-        win.print();    // PRINT THE CONTENTS.
-    }
+        win.document.close();
+        win.print();
+    });
+});
 </script>
-
