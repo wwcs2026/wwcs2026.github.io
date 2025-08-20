@@ -265,7 +265,7 @@ document.getElementById('btPrint').addEventListener('click', function() {
     document.addEventListener("DOMContentLoaded", function() {
         document.getElementById('btPrint').addEventListener('click', function() {
             var sTable = document.getElementById('tab').innerHTML;
-            var sTitle = "<h1 style='font-size: 24;'>Timetable for WWCS 2026 </h1>"
+            var sTitle = "<h1 style='font-size: 24;'>Timetable for WWCS 2026 </h1>";
 
             var style = "<style>";
             style += "table {width: 100%; font: 17px Noto Sans; border-collapse: collapse;}";
