@@ -229,6 +229,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         document.getElementById('btPrint').addEventListener('click', function() {
             var sTable = document.getElementById('tab').innerHTML;
             var sTitle = "<h1 style='font-size: 24;'>Timetable for WWCS 2026 </h1>";
+            var sFootnote = "<span style='color: red'>**</span> The availability of this tutorial slot depends on the number of proposals received. If there are just two tutorials, it will be project time.";
 
             var style = "<style>";
             style += "table {width: 100%; font: 17px Noto Sans; border-collapse: collapse;}";
@@ -250,6 +251,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             win.document.write('<html><head><title>Timetable for WWCS 2026</title>' + style + '</head><body>');
             win.document.write(sTitle);
             win.document.write(sTable);
+            win.document.write(sFootnote);
             win.document.write('</body></html>');
             win.document.close();
             win.print();
