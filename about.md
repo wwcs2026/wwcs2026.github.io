@@ -18,6 +18,6 @@ Finally, the workshop organizers aim to  create a communtity whose links last we
 
 The workshop originates from the initiative of a few individuals attending the [Santa Fe Institute Summer School on Complex Systems](https://www.santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school) in 2014. The group sequentially became part of the WWCS Steering Committee. Over the years, the workshop has grown into a larger community attracting young researchers from all over the world. In addition, the workshop's importance for the complexity science community was awarded by the Complex Systems Society in 2022 during the Complex Systems Conference in Palma ([Service Award](https://cssociety.org/event/c08452ce-9986-4bf7-8b33-cb72a9bb50c9)). This workshop is an exciting opportunity for young scientists to explore new research avenues, collaborate with others, and contribute to the development of complexity science.
 
-For general information about WWCS and the last editions check our [Twitter](https://twitter.com/winter_complex).
+For general information about WWCS and the last editions check our [Bluesky](https://web-cdn.bsky.app/profile/wwcs.bsky.social).
 
 <center><img src="{{ page.image_base }}award.jpeg" width="80%"/></center>

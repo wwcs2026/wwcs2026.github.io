@@ -26,7 +26,7 @@ The workshop already has a long history — you can learn more about its journey
 ## Applications:
 
 - Start of applications: **August 25th**
-- Deadline for applications: **September 25th**
+- Deadline for applications: **October 6th**
 - Notification of acceptance: **November 6th**
 
 Further information about the application process and form can be found in the [Application](https://wwcs2026.github.io/application) section.
