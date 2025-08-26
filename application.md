@@ -13,7 +13,7 @@ Application is open now! To proceed with the workshop application we ask to inte
 
 We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. Excellent applicants with no previous experiences with complexity research will also be considered. In the last years 20-30% of applicants were invited to attend the Winter Workshop.
 
-**The application form is available [here](https://forms.gle/C8hbYthPL9AQK62A8) until OCtober 6th.**
+**The application form is available [here](https://forms.gle/C8hbYthPL9AQK62A8) until October 6th.**
 
 ## Registration 
 
