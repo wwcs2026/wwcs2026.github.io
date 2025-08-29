@@ -2,7 +2,11 @@
 layout: page
 title:  Application
 ---
-
+<style>
+    body {
+        text-align: justify;
+        }
+</style>
 Application is open now! To proceed with the workshop application we ask to interested individuals to submit a CV, a cover letter, and complete of an application form. Bear in mind the following dates:
 
 - Start of applications: **August 25th 2025**
@@ -47,7 +51,7 @@ We hope to enable all students independent of financial means to attend the wint
 
 In addition to travel support, there will also be grants from partner institutions that may cover registration fees or even travel costs. We are still finalizing the details, but we will share updated information before the acceptance notifications on November 6th. If you are interested in being considered for these opportunities, please indicate this clearly in your application form.
 
-<!-- ## Sicómoro grant
+## Sicómoro grant
 
 <img src="/assets/image26/sponsors/sicomoro.png" alt="Logo Sicómoro Fundation" style="width:40%; height:auto;" />
 
@@ -60,4 +64,4 @@ Fundación Sicómoro offers 3 scholarships for *Spanish-speaking applicants* to 
 
 3.⁠ **⁠Submit a motivation letter**: Attach a motivation letter *in Spanish* addressed to Fundación Sicómoro, explaining why you want to participate and why you should be awarded the scholarship. This letter of motivation should be a different letter to the cover letter for the workshop.
 
-If awarded the scholarship, you will be exempt from paying the registration fee for the WWCS2026. Scholarship recipients are expected to participate fully in the workshop and will provide a summary in Spanish of their experience to Fundación Sicómoro after the event. -->
+If awarded the scholarship, you will be exempt from paying the registration fee for the WWCS2026. Scholarship recipients are expected to participate fully in the workshop and will provide a summary in Spanish of their experience to Fundación Sicómoro after the event.

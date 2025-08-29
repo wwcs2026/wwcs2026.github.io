@@ -5,6 +5,12 @@ image_base: /assets/image26/venue/
 ---
 
 <style>
+
+  body {
+    text-align: justify;
+  }
+
+
   .image-row {
     display: flex;
     flex-wrap: wrap;

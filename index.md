@@ -6,6 +6,11 @@ image_base: /assets/image26/logo/
 title: Winter Workshop on Complex Systems 2026
 
 ---
+<style>
+    body {
+      text-align: justify;
+    }
+</style>
 
 <center>
   <img src="{{ page.image_base }}logo_sign_no_back.png" style="width: 50%;" />

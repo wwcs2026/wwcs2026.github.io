@@ -1,4 +1,10 @@
 <style>
+
+ 
+  body {
+    text-align: justify;
+  }
+
 .speaker-container {
   display: flex;
   flex-direction: column;
@@ -56,7 +62,7 @@
 }
 </style>
 
-<p style="text-align: justify;">We’re still finalizing our list of invited speakers, but once it’s ready, you will find a description of their work and research here. They’ll be sharing insights on exciting topics in complex systems science, from social science and network science to collective behavior and beyond.<br>
+<p>We’re still finalizing our list of invited speakers, but once it’s ready, you will find a description of their work and research here. They’ll be sharing insights on exciting topics in complex systems science, from social science and network science to collective behavior and beyond.<br>
 Stay tuned for updates!</p>
 
 <div class="speaker-container">
@@ -68,7 +74,7 @@ Stay tuned for updates!</p>
       </div>
       <div class="speaker-details">
         <h3>Rafael Prieto-Curiel</h3>
-        <p style="text-align: justify;">
+        <p>
           Rafael Prieto-Curiel is a Faculty Member at the Complexity Science Hub, where he works on topics including violence, mobility, migration, and urban dynamics.
           He works for the OECD and the World Bank, conducting spatial and demographic analyses of cities. He is the Scientific Advisor of Aleph.
           In 2024, he was awarded the “Science Breakthrough” award by the Falling Walls Foundation.<br>

@@ -77,16 +77,16 @@
       </div>
   </a>
 
-  <!--<a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
+  <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
-        <img src="/assets/image24/sicomoro.png" alt="Fundación Sicomoro logo">
+        <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
       </div>
       <div class="sponsor-details">
         <h3>Fundación Sicomoro</h3>
         <p>Fundación Sicómoro is a non-profit organization dedicated to the study and application of General Systems Theory. Leveraging an interdisciplinary approach, their mission is to develop collective knowledge that enhances societal understanding and decision-making.</p>
       </div>
     </div>
-  </a>-->
+  </a>
 
 </div>
