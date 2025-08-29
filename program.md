@@ -5,6 +5,10 @@ image_base: /assets/image26/
 ---
 
 <style> 
+    body {
+        text-align: justify;
+    }
+
     /* Responsive wrapper for mobile portability*/
     .table-container {
         width: 100%;
@@ -92,22 +96,20 @@ image_base: /assets/image26/
 </style>
 
 
-<p style="text-align: justify;">The workshop includes talks by invited speakers, participants' tutorials, and time for developing group projects. There will also be non-academic activities aimed at socializing with other participants. Even though the timetable is still provisional the following list shows a description of activities:
-</p>
+The workshop includes talks by invited speakers, participants' tutorials, and time for developing group projects. There will also be non-academic activities aimed at socializing with other participants. Even though the timetable is still provisional the following list shows a description of activities:
 
 **Main activities:**
 
-<p style="text-align: justify;">
+
 -  Keynote talks: The workshop will feature three keynote lectures. Rafael Prieto-Curiel has already been confirmed as one of the keynote speakers, while the other two will be announced soon. Each keynote will last 90 minutes.
-</p>
 
-<p style="text-align: justify;">
+
+
 -   Tutorials: There will be two or three tutorials, each lasting approximately 45 minutes, although this may change depending on the number of proposals and the level of interest generated. The purpose of a tutorial is to give students enough time to present their work in detail and delve into topics and techniques that may be of interest to other participants. If desired, it can include a hands-on session. The application form will include a section for describing any proposed tutorial, but selection will be made by the participants through a poll, so the most interesting tutorials can be chosen.
-</p>
 
-<p style="text-align: justify;">
+
+
 -   Projects: Participants will split into groups and will formalize a research question. Preliminary results will be presented on the final day of the workshop. Attendees are encouraged to propose their own research questions so groups with shared interests can naturally form. Project proposals will be presented on Monday during the Project discussion.
-</p>
 
 **Social activities:**
 
@@ -232,7 +234,7 @@ image_base: /assets/image26/
     <input type="button" value="Download PDF" id="btPrint" />
 </p>
 
-<small> If Download button does not work refresh the website 
+<small> If Download button does not work, refresh the website.
 
 
 <script>
