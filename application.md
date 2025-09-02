@@ -7,7 +7,7 @@ title:  Application
         text-align: justify;
         }
 </style>
-Application is open now! To proceed with the workshop application we ask to interested individuals to submit a CV, a cover letter, and complete of an application form. Bear in mind the following dates:
+Application is open now! To proceed with the workshop application we ask to interested individuals to submit a CV, a cover letter, and complete the application form. Bear in mind the following dates:
 
 - Start of applications: **August 25th 2025**
 

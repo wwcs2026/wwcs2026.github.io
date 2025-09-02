@@ -86,3 +86,23 @@ Stay tuned for updates!</p>
   </a>
 
 </div>
+
+
+<div class="speaker-container">
+
+  <a class="speaker-link" href="https://c-cabrera.com/" target="_blank">
+    <div class="speaker-card">
+      <div class="speaker-photo">
+        <img src="/assets/image26/speakers/carmen.jpg" alt="Carmen picture">
+      </div>
+      <div class="speaker-details">
+        <h3>Carmen Cabrera</h3>
+        <p>
+          Carmen Cabrera is a Lecturer in Geographic Data Science (Assistant Professor) at the Geographic Data Science Lab, within the University of Liverpool’s Department of Geography and Planning. Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen’s research focuses on developing quantitative frameworks to model and predict human mobility patterns across spatiotemporal scales and population groups, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement. <br>
+          Prior to her position as a Lecturer, Carmen completed a BSc in Physics, followed by an MSc in Complex Systems, specialising in Network Analysis. She then did a PhD in Applied Mathematics at University College London (UCL), focusing on the development of mathematical models of social behaviours in urban areas, against the theoretical backdrop of agglomeration economies. After graduating from her PhD in 2021, she was a Research Fellow in Urban Mobility at the Centre for Advanced Spatial Analysis (CASA), at UCL, where she currently holds a honorary position
+        </p>
+      </div>
+    </div>
+  </a>
+
+</div>

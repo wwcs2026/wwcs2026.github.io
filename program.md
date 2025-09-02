@@ -245,14 +245,14 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             var sFootnote = "<span style='color: red'>**</span> The availability of this tutorial slot depends on the number of proposals received. If there are just two tutorials, it will be project time.";
 
             var style = "<style>";
-            style += "table {width: 100%; font: 17px Noto Sans; border-collapse: collapse;}";
+            style += "table {width: 100%; font: 14px Arial; border-collapse: collapse;}";
             style += "th, td {border: 2px solid #DDD; padding: 2px 3px; text-align: center;}";
             style += "td.arrival { background-color: #d9d9d9 !important; }";
             style += "td.socialActivities { background-color: #80b1d3 !important; }";
             style += "td.keynoteTalks { background-color: #bebada !important; }";
-            style += "td.meals { background-color: #fdb462 !important; }";
+            style += "td.meals { background-color: #fcc990 !important; }";
             style += "td.coffeebreak { background-color: #ffffb3 !important; }";
-            style += "td.tutorials { background-color: #bc80bd !important; }";
+            style += "td.tutorials { background-color: #e697e8 !important; }";
             style += "td.projects { background-color: #fccde5 !important; }";
             style += "td.freeTime { background-color: #b3de69 !important; }";
             style += "td.nightActivities { background-color: #8dd3c7 !important; }";
