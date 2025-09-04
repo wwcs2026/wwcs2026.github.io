@@ -83,7 +83,7 @@
         <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
       </div>
       <div class="sponsor-details">
-        <h3>Fundación Sicomoro</h3>
+        <h3>Fundación Sicómoro</h3>
         <p>Fundación Sicómoro is a non-profit organization dedicated to the study and application of General Systems Theory. Leveraging an interdisciplinary approach, their mission is to develop collective knowledge that enhances societal understanding and decision-making.</p>
       </div>
     </div>
