@@ -46,8 +46,10 @@ author:
   name:                wwcs2026
   email:               wwcs2026@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             winter_complex
-  github:              wwcs2026
+  social:
+    twitter:             winter_complex
+    github:              wwcs2026
+    linkedin:            winter-workshop-on-complex-systems
 
 # Add links to the sidebar.
 #menu:

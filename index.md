@@ -47,6 +47,12 @@ Email us at: [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com)
 
 <center>
 
-<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed  
+  username="wwcs.bsky.social"  
+  limit="2">  
+</bsky-embed>
+
+<!-- <a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  -->
 
 </center>
