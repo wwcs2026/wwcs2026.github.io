@@ -78,7 +78,6 @@
   </a>
 
   <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
-  <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
         <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
