@@ -23,14 +23,14 @@
   transform: translateY(-4px);
 }
 
-.sponsor-logo {
-  max-width: 250px;
-  margin-bottom: 1rem;
+.sponsor-logo { 
+  max-width: 450px; 
+  margin-bottom: 1rem; 
 }
 
 .sponsor-logo img {
-  width: 100%;
-  height: auto;
+  height: 100px;     /* fixes height */
+  width: auto;       /* keep aspect ratio */
   object-fit: contain;
 }
 
@@ -68,23 +68,37 @@
   <a class="sponsor-link" href="https://ifisc.uib-csic.es/en/" target="_blank">
       <div class="sponsor-card">
         <div class="sponsor-logo">
-          <img src="/assets/image26/sponsors/ifisc.jpeg" alt="IFISC logo">
+          <img src="/assets/image26/sponsors/ifisc.png" alt="IFISC logo">
         </div>
         <div class="sponsor-details">
           <h3>Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)</h3>
-          <p>IFISC is a joint research institute of the UIB and the Spanish National Research Council (CSIC) whose mission is to develop Cross-Disciplinary and Strategic Research in complex systems following the established scientific approach of physicists.</p>
+          <p>IFISC is a joint research institute of the UIB and the Spanish National Research Council (CSIC) whose mission is to develop cross-disciplinary and strategic research in complex systems. In 2018, IFISC received the prestigious "Unit of Excellence" María de Maeztu Award from the Spanish Research Agency (AEI), which recognises research institutions with highly competitive strategic programmes operating at the forefront of scientific knowledge.</p>
         </div>
       </div>
   </a>
 
   <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
+  <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
         <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
       </div>
       <div class="sponsor-details">
         <h3>Fundación Sicómoro</h3>
         <p>Fundación Sicómoro is a non-profit organization dedicated to the study and application of General Systems Theory. Leveraging an interdisciplinary approach, their mission is to develop collective knowledge that enhances societal understanding and decision-making.</p>
+      </div>
+    </div>
+  </a>
+
+  <a class="sponsor-link" href="https://www.epj.org/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/EPJ.png" alt="European Physical Journal (EPJ)">
+      </div>
+      <div class="sponsor-details">
+        <h3>European Physical Journal (EPJ)</h3>
+        <p>The European Physical Journal (EPJ) is a series of peer-reviewed journals covering the whole spectrum of physics and related interdisciplinary subjects. EPJ is committed to high scientific quality in publishing and is indexed in all main citation databases.</p>
       </div>
     </div>
   </a>
