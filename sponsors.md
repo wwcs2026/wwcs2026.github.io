@@ -81,7 +81,6 @@
     <div class="sponsor-card">
       <div class="sponsor-logo">
         <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
-        <img src="/assets/image26/sponsors/sicomoro.png" alt="Fundación Sicomoro logo">
       </div>
       <div class="sponsor-details">
         <h3>Fundación Sicómoro</h3>
