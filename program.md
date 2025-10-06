@@ -160,7 +160,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         </tr>
         <tr>
             <td><b>10:30-11:00</b></td>
-            <td rowspan="3" class="socialActivities">Organized activity</td>
+            <td rowspan="3" class="projects">Project discussion</td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
@@ -168,7 +168,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         <tr>
             <td><b>11:00-12:00</b></td>
             <td rowspan="2" class="tutorials">Student tutorials</td>
-            <td rowspan="2" class="projects">Projects</td>
+            <td rowspan="3" class="socialActivities">Organized activity + Lunch</td>
             <td rowspan="2" class="projects">Projects</td>
             <td rowspan="3" class="projects">Project presentations</td>
         </tr>
@@ -181,13 +181,12 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td class="meals">Lunch</td>
             <td class="meals">Lunch</td>
             <td class="meals">Lunch</td>
-            <td class="meals">Lunch</td>
         </tr>
         <tr>
             <td><b>14:00-15:00</b></td>
-            <td rowspan="4" class="projects">Project discussion</td>
+            <td rowspan="4" class="projects">Projects</td>
             <td class="tutorials">Student tutorials <span style="color: red">**</span></td>
-            <td rowspan="5" class="socialActivities">Organized activity</td>
+            <td rowspan="4" class="projects">Projects</td>
             <td rowspan="4" class="projects">Projects</td>
             <td rowspan="8" class="introClosingEvent">Closing event (optional)</td>
         </tr>
@@ -204,6 +203,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         </tr>
         <tr>
             <td><b>18:00-20:00</b></td>
+            <td class="freeTime">Free time</td>
             <td class="freeTime">Free time</td>
             <td class="freeTime">Free time</td>
             <td class="freeTime">Free time</td>
