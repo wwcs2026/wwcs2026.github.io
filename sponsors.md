@@ -53,18 +53,6 @@
 
 <div class="sponsor-container">
 
-  <a class="sponsor-link" href="https://www.uib.eu/" target="_blank">
-    <div class="sponsor-card">
-      <div class="sponsor-logo">
-        <img src="/assets/image26/sponsors/uib.png" alt="University of the Balearic Islands logo">
-      </div>
-      <div class="sponsor-details">
-        <h3>University of the Balearic Islands (UIB)</h3>
-        <p>The UIB is a cutting-edge university for teaching and research. It has deep roots in the region and is committed to society, sowing values that honour humanity with an ever-increasing international calling.</p>
-      </div>
-    </div>
-  </a>
-
   <a class="sponsor-link" href="https://ifisc.uib-csic.es/en/" target="_blank">
       <div class="sponsor-card">
         <div class="sponsor-logo">
@@ -75,6 +63,18 @@
           <p>IFISC is a joint research institute of the UIB and the Spanish National Research Council (CSIC) whose mission is to develop cross-disciplinary and strategic research in complex systems. In 2018, IFISC received the prestigious "Unit of Excellence" María de Maeztu Award from the Spanish Research Agency (AEI), which recognises research institutions with highly competitive strategic programmes operating at the forefront of scientific knowledge.</p>
         </div>
       </div>
+  </a>
+
+  <a class="sponsor-link" href="https://www.uib.eu/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/uib.png" alt="University of the Balearic Islands logo">
+      </div>
+      <div class="sponsor-details">
+        <h3>University of the Balearic Islands (UIB)</h3>
+        <p>The UIB is a cutting-edge university for teaching and research. It has deep roots in the region and is committed to society, sowing values that honour humanity with an ever-increasing international calling.</p>
+      </div>
+    </div>
   </a>
 
   <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">

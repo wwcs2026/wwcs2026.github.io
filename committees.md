@@ -187,6 +187,6 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write t
     <div class="committee-member">
     <img src="{{ page.image_base }}steering/irene.jpeg" alt="Irene Ferri">
     <p><strong>Irene Ferri</strong></p>
-    <p><em>UBICS, Barcelona, Spain</em></p>
+    <p><em>NetSI Roux, Northeastern University, Portland, US</em></p>
   </div>
 </div>
