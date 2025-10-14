@@ -152,7 +152,7 @@ You can contact us at [wwcs2026@gmail.com](mailto:wwcs2026@gmail.com) or write t
   <div class="committee-member">
     <img src="{{ page.image_base }}steering/fer.png" alt="Fernando Diaz Diaz">
     <p><strong>Fernando Diaz Diaz</strong></p>
-    <p><em>IFISC, Balearic Islands, Spain</em></p>
+    <p><em>University Carlos III, Madrid, Spain</em></p>
   </div>
   <div class="committee-member">
     <img src="{{ page.image_base }}steering/miguel.png" alt="Miguel Ángel González Casado">
