@@ -62,8 +62,8 @@
 }
 </style>
 
-<p>We’re still finalizing our list of invited speakers, but once it’s ready, you will find a description of their work and research here. They’ll be sharing insights on exciting topics in complex systems science, from social science and network science to collective behavior and beyond.<br>
-Stay tuned for updates!</p>
+<p>Our invited speakers bring together expertise from across different fields of complex systems science — from human mobility and urban dynamics to network theory and linguistics — providing insights into how complexity emerges in nature and society.<br>
+Stay tuned for updates about our last speaker!</p>
 
 <div class="speaker-container">
 

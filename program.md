@@ -101,7 +101,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 **Main activities:**
 
 
--  Keynote talks: The workshop will feature three keynote lectures. Rafael Prieto-Curiel and Carmen Cabrera-Arnau have already been confirmed as keynote speakers, while the other will be announced soon. Each keynote will last 90 minutes.
+-  Keynote talks: The workshop will feature three keynote lectures. Rafael Prieto-Curiel, Carmen Cabrera-Arnau and Luis F Seoane have already been confirmed as keynote speakers, while the other will be announced soon. Each keynote will last 90 minutes.
 
 
 
