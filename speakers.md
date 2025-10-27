@@ -106,3 +106,30 @@ Stay tuned for updates!</p>
   </a>
 
 </div>
+
+
+<div class="speaker-container">
+
+  <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
+    <div class="speaker-card">
+      <div class="speaker-photo">
+        <img src="/assets/image26/speakers/luis.jpg" alt="Luis picture">
+      </div>
+      <div class="speaker-details">
+        <h3>Luis F Seoane</h3>
+        <p>
+          Luis F Seoane is a researcher in Complex Systems—working in that field in a very general sense. He has
+          contributed studies to computational neuroscience, evolutionary dynamics, network theory, econophysics,
+          or linguistics—among others. Very often, these studies tackle how a system’s complexity is changed as
+          the system varies in size, number of components, number of parts, etc; and vice-versa: how a system’s
+          complexity might affect its growth and constituting units. Since July 2025, he works at the Institute for
+          Evolutionary Biology (IBE, UPF-CSIC) in Barcelona, where he heads the BIT Lab. Earlier, he completed
+          postdocs at MIT, IBE, the Institute for Interdisciplinary Physics and Complex Systems (IFISC) in Palma
+          de Mallorca, and the Spanish National Center for Biotechnology (CNB, CSIC) where he first launched the
+          BIT Lab in 2023.
+        </p>
+      </div>
+    </div>
+  </a>
+
+</div>
