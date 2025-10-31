@@ -101,4 +101,18 @@
     </div>
   </a>
 
+
+
+<a class="sponsor-link" href="https://cssociety.org/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/CSS_logo.png" alt="Complex Systems Society (CSS)">
+      </div>
+      <div class="sponsor-details">
+        <h3>Complex Systems Society (CSS)</h3>
+        <p>The Society aims to promote complex systems research pure and applied, assist and advise on problems of complex systems education, concern itself with the broader relations of complex systems to society, foster the interaction between complex systems scientists of different countries, establish a sense of identity amongst complexity scientists, and represent the complexity community at all international levels.</p>
+      </div>
+    </div>
+  </a>
+
 </div>

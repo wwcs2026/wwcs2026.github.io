@@ -47,9 +47,13 @@ We want to make sure that everyone who is interested in the winter school has a 
 
 We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. If you are applying for a travel grant, you may upload a separate motivation letter and a list of the needded funds in the application (a different document that the cover letter for the application). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
 
-## Other grants 
+## Thematic school support (CSS)
 
-In addition to travel support, there will also be grants from partner institutions that may cover registration fees or even travel costs. We are still finalizing the details, but we will share updated information before the acceptance notifications on November 6th. If you are interested in being considered for these opportunities, please indicate this clearly in your application form.
+<img src="/assets/image26/sponsors/CSS_logo.png" alt="Logo Complex Systems Society" style="width:40%; height:auto;" />
+
+The Thematic School Support (TSS) Program aims at supporting the attendance of PhD students and Junior Post Doctoral researchers, who are members of the CSS, to Doctoral and  thematic in-person, online or hybrid schools focusing on applied or theoretical issues relevant to understanding or conducting interventions related to complex systems. WWCS has been granted 5 scholarchips to cover fee waivers for participants *members of CSS*.
+
+
 
 ## Sicómoro grant
 
