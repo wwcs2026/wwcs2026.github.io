@@ -115,4 +115,16 @@
     </div>
   </a>
 
+  <a class="sponsor-link" href="https://www.frontiersin.org/journals/complex-systems" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/frontiers_logo.png" alt="Frontiers in Complex Systems">
+      </div>
+      <div class="sponsor-details">
+        <h3>Frontiers in Complex Systems</h3>
+        <p> <it>Frontiers in Complex Systems</it> publishes rigorously peer-reviewed quantitative research on Complex Systems, either theoretical, experimental, mathematical, computational or data description.</p>
+      </div>
+    </div>
+  </a>
+
 </div>
