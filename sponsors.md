@@ -122,7 +122,7 @@
       </div>
       <div class="sponsor-details">
         <h3>Frontiers in Complex Systems</h3>
-        <p> <it>Frontiers in Complex Systems</it> publishes rigorously peer-reviewed quantitative research on Complex Systems, either theoretical, experimental, mathematical, computational or data description.</p>
+        <p> <i>Frontiers in Complex Systems</i> publishes rigorously peer-reviewed quantitative research on Complex Systems, either theoretical, experimental, mathematical, computational or data description.</p>
       </div>
     </div>
   </a>
