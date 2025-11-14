@@ -77,6 +77,19 @@
     </div>
   </a>
 
+
+<a class="sponsor-link" href="https://cssociety.org/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/CSS_logo.png" alt="Complex Systems Society (CSS)">
+      </div>
+      <div class="sponsor-details">
+        <h3>Complex Systems Society (CSS)</h3>
+        <p>The Society aims to promote complex systems research pure and applied, assist and advise on problems of complex systems education, concern itself with the broader relations of complex systems to society, foster the interaction between complex systems scientists of different countries, establish a sense of identity amongst complexity scientists, and represent the complexity community at all international levels.</p>
+      </div>
+    </div>
+  </a>
+
   <a class="sponsor-link" href="https://www.fundacionsicomoro.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
@@ -85,6 +98,19 @@
       <div class="sponsor-details">
         <h3>Fundación Sicómoro</h3>
         <p>Fundación Sicómoro is a non-profit organization dedicated to the study and application of General Systems Theory. Leveraging an interdisciplinary approach, their mission is to develop collective knowledge that enhances societal understanding and decision-making.</p>
+      </div>
+    </div>
+  </a>
+
+
+  <a class="sponsor-link" href="https://www.frontiersin.org/journals/complex-systems" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/frontiers_logo.png" alt="Frontiers in Complex Systems">
+      </div>
+      <div class="sponsor-details">
+        <h3>Frontiers in Complex Systems</h3>
+        <p> <i>Frontiers in Complex Systems</i> publishes rigorously peer-reviewed quantitative research on Complex Systems, either theoretical, experimental, mathematical, computational or data description.</p>
       </div>
     </div>
   </a>
@@ -103,28 +129,6 @@
 
 
 
-<a class="sponsor-link" href="https://cssociety.org/" target="_blank">
-    <div class="sponsor-card">
-      <div class="sponsor-logo">
-        <img src="/assets/image26/sponsors/CSS_logo.png" alt="Complex Systems Society (CSS)">
-      </div>
-      <div class="sponsor-details">
-        <h3>Complex Systems Society (CSS)</h3>
-        <p>The Society aims to promote complex systems research pure and applied, assist and advise on problems of complex systems education, concern itself with the broader relations of complex systems to society, foster the interaction between complex systems scientists of different countries, establish a sense of identity amongst complexity scientists, and represent the complexity community at all international levels.</p>
-      </div>
-    </div>
-  </a>
 
-  <a class="sponsor-link" href="https://www.frontiersin.org/journals/complex-systems" target="_blank">
-    <div class="sponsor-card">
-      <div class="sponsor-logo">
-        <img src="/assets/image26/sponsors/frontiers_logo.png" alt="Frontiers in Complex Systems">
-      </div>
-      <div class="sponsor-details">
-        <h3>Frontiers in Complex Systems</h3>
-        <p> <i>Frontiers in Complex Systems</i> publishes rigorously peer-reviewed quantitative research on Complex Systems, either theoretical, experimental, mathematical, computational or data description.</p>
-      </div>
-    </div>
-  </a>
 
 </div>
