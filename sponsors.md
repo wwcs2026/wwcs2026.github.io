@@ -108,7 +108,7 @@
         <img src="/assets/image26/sponsors/PLOS_CSY_logo.png" alt="PLOS Complex Systems">
       </div>
       <div class="sponsor-details">
-        <h3>PLOS</h3>
+        <h3>PLOS Complex Systems</h3>
         <p>  <i>PLOS Complex Systems</i> is a selective interdisciplinary journal focused on research that aids our understanding of the world through a complexity lens, and fosters discussion within the emerging complexity community.</p>
       </div>
     </div>
