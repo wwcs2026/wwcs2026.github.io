@@ -102,7 +102,7 @@
     </div>
   </a>
 
-<a class="sponsor-link" href="https://plos.org/" target="_blank">
+<a class="sponsor-link" href="https://plos.org/complexsystems/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
         <img src="/assets/image26/sponsors/PLOS_CSY_logo.png" alt="PLOS Complex Systems">
