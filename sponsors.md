@@ -105,11 +105,11 @@
 <a class="sponsor-link" href="https://plos.org/" target="_blank">
     <div class="sponsor-card">
       <div class="sponsor-logo">
-        <img src="/assets/image26/sponsors/plos_logo.png" alt="PLOS">
+        <img src="/assets/image26/sponsors/PLOS_CSY_logo.png" alt="PLOS Complex Systems">
       </div>
       <div class="sponsor-details">
         <h3>PLOS</h3>
-        <p> PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice.</p>
+        <p>  <i>PLOS Complex Systems</i> is a selective interdisciplinary journal focused on research that aids our understanding of the world through a complexity lens, and fosters discussion within the emerging complexity community.</p>
       </div>
     </div>
   </a>
