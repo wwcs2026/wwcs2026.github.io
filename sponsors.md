@@ -102,6 +102,17 @@
     </div>
   </a>
 
+<a class="sponsor-link" href="https://plos.org/" target="_blank">
+    <div class="sponsor-card">
+      <div class="sponsor-logo">
+        <img src="/assets/image26/sponsors/plos_logo.png" alt="PLOS">
+      </div>
+      <div class="sponsor-details">
+        <h3>PLOS</h3>
+        <p> PLOS is a non-profit organization on a mission to drive open science forward with measurable, meaningful change in research publishing, policy and practice.</p>
+      </div>
+    </div>
+  </a>
 
   <a class="sponsor-link" href="https://www.frontiersin.org/journals/complex-systems" target="_blank">
     <div class="sponsor-card">
