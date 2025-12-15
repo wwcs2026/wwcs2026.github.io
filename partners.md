@@ -51,6 +51,22 @@
 }
 </style>
 
+
+<div class="partner-container">
+  <a class="partner-link" href="https://ysi.ineteconomics.org/" target="_blank">
+    <div class="partner-card">
+      <div class="partner-logo">
+        <img src="/assets/image26/partners/ysi.png" alt="Young Scholars Initiative logo">
+      </div>
+      <div class="partner-details">
+        <h3>Young Scholars Initiative</h3>
+        <p>YSI is a community of students, young professionals and researchers from across the globe pursuing new and critical ways of thinking about the economy. </p>
+      </div>
+    </div>
+  </a>
+
+</div>
+
 <div class="partner-container">
 
   <a class="partner-link" href="https://www.palma.es/" target="_blank">
@@ -64,5 +80,4 @@
       </div>
     </div>
   </a>
-
 </div>
