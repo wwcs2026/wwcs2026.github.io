@@ -135,7 +135,7 @@
 
 <div class="speaker-container">
 
-  <a class="speaker-link" href="https://www.ibe.upf-csic.es/bit-lab" target="_blank">
+  <a class="speaker-link" href="https://ifisc.uib-csic.es/es/people/maxi-san-miguel/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
         <img src="/assets/image26/speakers/maxi.jpg" alt="Maxi picture">
@@ -143,7 +143,7 @@
       <div class="speaker-details">
         <h3>Maxi San Miguel</h3>
         <p>
-          Maxi San Miguel (PhD in Theoretical Physics, University of Barcelona 1978) is Professor of Physics at the University of the Balearic Islands-UIB (since 1986) and founding Director of IFISC (Institute for Cross-Disciplinary Physics and Complex Systems, UIB-CSIC(Spanish National Research Council), Palma de Mallorca, Spain. His academic career include positions and appointments at University of Barcelona, Temple University (Philadelphia, PA, USA), Università di Roma La Sapienza, University of Arizona (Tucson, AZ, USA), University of Strathclyde (Glasgow), University of Technology of Helsinki and the Complexity Sciences Hub, Vienna. His research activity spans across different fields of Statistical and Nonlinear Physics (Stochastic Processes, Phase Transitions, Pattern Formation and Spatio-temporal Complexity, Complex Networks) and Computational Social Science, as well as Laser Physics and Photonics. He is the author of over 360 papers quoted over 18,600 times (h index=61) in top journals of Physics, Engineering, Ecology, Social Science and Multidisciplinary Science.
+          Maxi San Miguel (PhD in Theoretical Physics, University of Barcelona 1978) is Professor of Physics at the University of the Balearic Islands-UIB (since 1986) and founding Director of IFISC (Institute for Cross-Disciplinary Physics and Complex Systems, UIB-CSIC(Spanish National Research Council), Palma de Mallorca, Spain. His academic career include positions and appointments at University of Barcelona, Temple University (Philadelphia, PA, USA), Università di Roma La Sapienza, University of Arizona (Tucson, AZ, USA), University of Strathclyde (Glasgow), University of Technology of Helsinki and the Complexity Sciences Hub, Vienna. His research activity spans across different fields of Statistical and Nonlinear Physics (Stochastic Processes, Phase Transitions, Pattern Formation and Spatio-temporal Complexity, Complex Networks) and Computational Social Science, as well as Laser Physics and Photonics. He is the author of over 360 papers quoted over 18,600 times (h index=65) in top journals of Physics, Engineering, Ecology, Social Science and Multidisciplinary Science.
         <br>
           Maxi San Miguel was coordinator for Physics and Mathematics of ANEP (Spanish National Evaluation Agency), chairman of the EPS (European Physical Society) Division on Statistical and Nonlinear Physics (1998-2002), and vice-chair of the IUPAP (International Union on Pure and Applied Physics) commission on Statistical Physics (2017-20).
         <br>
