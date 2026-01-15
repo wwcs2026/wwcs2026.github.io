@@ -138,7 +138,7 @@
   <a class="speaker-link" href="https://ifisc.uib-csic.es/es/people/maxi-san-miguel/" target="_blank">
     <div class="speaker-card">
       <div class="speaker-photo">
-        <img src="/assets/image26/speakers/maxi.jpg" alt="Maxi picture">
+        <img src="/assets/image26/speakers/maxi.jpeg" alt="Maxi picture">
       </div>
       <div class="speaker-details">
         <h3>Maxi San Miguel</h3>

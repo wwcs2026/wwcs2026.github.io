@@ -138,38 +138,46 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <th>Friday</th>
         </tr>
         <tr>
-            <td><b>8:00-9:00</b></td>
-            <td rowspan="5" class="arrival"> Arrival at Palma</td>
+            <td><b>8:00-8:30</b></td>
+            <td rowspan="7" class="arrival"> Arrival at Palma</td>
+            <td rowspan="2" class="meals"> Breakfast</td>
+            <td rowspan="2" class="meals"> Breakfast</td>
+            <td rowspan="2" class="meals"> Breakfast</td>
+            <td rowspan="2" class="meals"> Breakfast</td>
             <td class="meals"> Breakfast</td>
-            <td class="meals"> Breakfast</td>
-            <td class="meals"> Breakfast</td>
-            <td class="meals"> Breakfast</td>
-            <td class="meals"> Breakfast</td>
+        </tr>
+        <tr>
+            <td><b>8:30-9:00</b></td>
+            <td  rowspan="2" class="arrival">Bus back to Palma</td>
         </tr>
         <tr>
             <td><b>9:00-10:00</b></td>
             <td class="introClosingEvent">Introduction and presentation</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> TBD</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> TBD</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> TBD</td>
-            <td rowspan="3" class="arrival">Bus back to Palma</td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Rafael Prieto-Curiel</td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Luis F Seoane</td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Carmen Cabrera</td>
         </tr>
         <tr>
             <td><b>10:00-10:30</b></td>
             <td class="coffeebreak">Coffee break</td>
+            <td rowspan="2" class="keynoteTalks"> Closure talk: <br> Maxi San Miguel</td>
         </tr>
         <tr>
             <td><b>10:30-11:00</b></td>
-            <td rowspan="3" class="projects">Project discussion</td>
+            <td rowspan="4" class="projects">Project discussion</td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
         </tr>
         <tr>
-            <td><b>11:00-12:00</b></td>
-            <td rowspan="2" class="tutorials">Student tutorials</td>
-            <td rowspan="3" class="socialActivities">Organized activity + Lunch</td>
-            <td rowspan="2" class="projects">Projects</td>
+            <td><b>11:00-11:30</b></td>
+            <td rowspan="3" class="tutorials">Student tutorials</td>
+            <td rowspan="4" class="socialActivities">Organized activity + Lunch</td>
+            <td rowspan="3" class="projects">Projects</td>
+            <td class="coffeebreak">Coffee break</td>
+        </tr>
+         <tr>
+            <td><b>11:30-12:00</b></td>
             <td rowspan="3" class="projects">Project presentations</td>
         </tr>
         <tr>
@@ -188,7 +196,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td class="tutorials">Student tutorials <span style="color: red">**</span></td>
             <td rowspan="4" class="projects">Projects</td>
             <td rowspan="4" class="projects">Projects</td>
-            <td rowspan="8" class="introClosingEvent">Closing event (optional)</td>
+            <td rowspan="3" class="introClosingEvent">Closing event (optional)</td>
         </tr>
         <tr>
             <td><b>15:00-16:00</b></td>
@@ -205,25 +213,32 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td><b>18:00-20:00</b></td>
             <td class="freeTime">Free time</td>
             <td class="freeTime">Free time</td>
-            <td class="freeTime">Free time</td>
-            <td class="freeTime">Free time</td>
+            <td rowspan="2" class="socialActivities">Startgazing</td>
+            <td class="socialActivities">Wine tasting</td>
             <td class="freeTime">Free time</td>
         </tr>
         <tr>
-            <td><b>20:00-21:00</b></td>
-            <td class="meals">Dinner</td>
-            <td class="meals">Dinner</td>
-            <td class="meals">Dinner</td>
-            <td class="meals">Dinner</td>
-            <td class="meals">Dinner</td>
+            <td><b>20:00-20:30</b></td>
+            <td rowspan="2" class="meals">Dinner</td>
+            <td rowspan="2" class="meals">Dinner</td>
+            <td rowspan="2" class="meals">Dinner</td>
+            <td rowspan="2" class="meals">Dinner</td>
+        </tr>
+        <tr>
+            <td><b>20:30-21:00</b></td>
+            <td rowspan="2" class="meals">Dinner</td>
+        </tr>
+        <tr>
+            <td><b>21:00-21:30</b></td>
+            <td rowspan="2" class="nightActivities">Introduction game</td>
+            <td rowspan="2" class="nightActivities">Games and other activities</td>
+            <td rowspan="2" class="freeTime">Free time</td>
+            <td rowspan="2" class="nightActivities">Games and other activities</td>
         </tr>
         <tr>
             <td><b>Night activity</b></td>
-            <td class="nightActivities">Games and other activities</td>
-            <td class="nightActivities">Games and other activities</td>
-            <td class="nightActivities">Games and other activities</td>
-            <td class="nightActivities">Games and other activities</td>
-            <td class="nightActivities">Games and other activities</td>
+            <td class="freeTime">Free time</td>
+            
         </tr>
     </table>
 </div>
