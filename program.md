@@ -25,7 +25,7 @@ image_base: /assets/image26/
         border: 2px solid #dee2e6;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         width: 100%;
-        max-width: 800px; /* this controls how muchs screen takes */
+        max-width: 870px; /* this controls how muchs screen takes */
         table-layout: fixed; /* keeps columns aligned */
         min-width: 400px; /* prevents squishing too much */
     }
@@ -124,7 +124,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 -   Night games and activities.
 
 
-**Provisional Timetable:**
+**Final Timetable:**
 
 <div id="tab">
     <table>
@@ -140,11 +140,11 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         <tr>
             <td><b>8:00-8:30</b></td>
             <td rowspan="7" class="arrival"> Arrival at Palma</td>
-            <td rowspan="2" class="meals"> Breakfast</td>
-            <td rowspan="2" class="meals"> Breakfast</td>
-            <td rowspan="2" class="meals"> Breakfast</td>
-            <td rowspan="2" class="meals"> Breakfast</td>
-            <td class="meals"> Breakfast</td>
+            <td rowspan="2" class="meals"> Breakfast <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals"> Breakfast <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals"> Breakfast <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals"> Breakfast <br><i> Sa Fonda</i></td>
+            <td class="meals"> Breakfast <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>8:30-9:00</b></td>
@@ -152,48 +152,48 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         </tr>
         <tr>
             <td><b>9:00-10:00</b></td>
-            <td class="introClosingEvent">Introduction and presentation</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Rafael Prieto-Curiel</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Luis F Seoane</td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Carmen Cabrera</td>
+            <td class="introClosingEvent">Introduction and presentation <br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Rafael Prieto-Curiel <br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Luis F Seoane <br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Carmen Cabrera <br><i> RM Santa Figura</i></td>
         </tr>
         <tr>
             <td><b>10:00-10:30</b></td>
             <td class="coffeebreak">Coffee break</td>
-            <td rowspan="2" class="keynoteTalks"> Closure talk: <br> Maxi San Miguel</td>
+            <td rowspan="2" class="keynoteTalks"> Closure talk: <br> Maxi San Miguel<br><i>Ca n'Oleo</i></td>
         </tr>
         <tr>
             <td><b>10:30-11:00</b></td>
-            <td rowspan="4" class="projects">Project discussion</td>
+            <td rowspan="4" class="projects">Project discussion <br><i> RM Santa Figura</i></td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
         </tr>
         <tr>
             <td><b>11:00-11:30</b></td>
-            <td rowspan="3" class="tutorials">Student tutorials</td>
-            <td rowspan="4" class="socialActivities">Organized activity + Lunch</td>
+            <td rowspan="3" class="tutorials">Student tutorials <br><i> RM Santa Figura</i></td>
+            <td rowspan="4" class="socialActivities">Hiking + Lunch <br><i> Serra de Tramuntana</i></td>
             <td rowspan="3" class="projects">Projects</td>
             <td class="coffeebreak">Coffee break</td>
         </tr>
          <tr>
             <td><b>11:30-12:00</b></td>
-            <td rowspan="3" class="projects">Project presentations</td>
+            <td rowspan="3" class="projects">Project presentations<br><i> Ca n'Oleo</i> </td>
         </tr>
         <tr>
             <td><b>12:00-13:00</b></td>
-            <td rowspan="4" class="socialActivities">Social lunch</td>
+            <td rowspan="4" class="socialActivities">Social lunch <br><i> Casal de Barri Es Jonquet</i></td>
         </tr>
         <tr>
             <td><b>13:00-14:00</b></td>
-            <td class="meals">Lunch</td>
-            <td class="meals">Lunch</td>
-            <td class="meals">Lunch</td>
+            <td class="meals">Lunch <br><i> Sa Fonda</i></td>
+            <td class="meals">Lunch <br><i> Sa Fonda</i></td>
+            <td class="meals">Lunch <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>14:00-15:00</b></td>
             <td rowspan="4" class="projects">Projects</td>
-            <td class="tutorials">Student tutorials <span style="color: red">**</span></td>
+            <td class="tutorials">Student tutorials <br><i> RM Santa Figura</i></td>
             <td rowspan="4" class="projects">Projects</td>
             <td rowspan="4" class="projects">Projects</td>
             <td rowspan="3" class="introClosingEvent">Closing event (optional)</td>
@@ -214,19 +214,19 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td class="freeTime">Free time</td>
             <td class="freeTime">Free time</td>
             <td rowspan="2" class="socialActivities">Startgazing</td>
-            <td class="socialActivities">Wine tasting</td>
+            <td class="socialActivities">Wine tasting <br><i> RM Escolania Theater</i></td>
             <td class="freeTime">Free time</td>
         </tr>
         <tr>
             <td><b>20:00-20:30</b></td>
-            <td rowspan="2" class="meals">Dinner</td>
-            <td rowspan="2" class="meals">Dinner</td>
-            <td rowspan="2" class="meals">Dinner</td>
-            <td rowspan="2" class="meals">Dinner</td>
+            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>20:30-21:00</b></td>
-            <td rowspan="2" class="meals">Dinner</td>
+            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>21:00-21:30</b></td>
@@ -243,7 +243,6 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
     </table>
 </div>
 
-<p style="text-align: justify; "><span style="color: red; ">**</span> The availability of this tutorial slot depends on the number of proposals received. If there are just two tutorials, it will be project time.</p>
 
 <p>
     <input type="button" value="Download PDF" id="btPrint" />
@@ -260,7 +259,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             var sFootnote = "<span style='color: red'>**</span> The availability of this tutorial slot depends on the number of proposals received. If there are just two tutorials, it will be project time.";
 
             var style = "<style>";
-            style += "table {width: 100%; font: 14px Arial; border-collapse: collapse;}";
+            style += "table {width: 100%; font: 14px Noto Sans; border-collapse: collapse;}";
             style += "th, td {border: 2px solid #DDD; padding: 2px 3px; text-align: center;}";
             style += "td.arrival { background-color: #d9d9d9 !important; }";
             style += "td.socialActivities { background-color: #80b1d3 !important; }";
@@ -279,7 +278,6 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             win.document.write('<html><head><title>Timetable for WWCS 2026</title>' + style + '</head><body>');
             win.document.write(sTitle);
             win.document.write(sTable);
-            win.document.write(sFootnote);
             win.document.write('</body></html>');
             win.document.close();
             win.print();
