@@ -96,7 +96,7 @@ image_base: /assets/image26/
 </style>
 
 
-The workshop includes talks by invited speakers, participants' tutorials, and time for developing group projects. There will also be non-academic activities aimed at socializing with other participants. Even though the timetable is still provisional the following list shows a description of activities:
+The workshop includes talks by invited speakers, participants' tutorials, and time for developing group projects. There will also be non-academic activities aimed at socializing with other participants. The following list shows a description of activities:
 
 **Main activities:**
 
@@ -116,10 +116,11 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
 -   Social event in Palma de Mallorca before leaving for the venue at Casal de barri Es Jonquet (Carrer Terrer, 10).
 
-
 -   Hiking through Tramuntana montains to enjoy Mallorca’s stunning landscapes.
 
 -   Stargazing activity if the weather allows.
+
+-   Wine tasting (with non-alcoholic options available)
 
 -   Night games and activities.
 
