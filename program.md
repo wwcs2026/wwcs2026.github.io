@@ -72,6 +72,15 @@ image_base: /assets/image26/
         }
     }
 
+    .dowload-btn {
+        padding: 10px 16px;
+        background: #5b5bd6;
+        color: white;
+        text-decoration: none;
+        border-radius:6px;
+        font-weight: bold;
+    }
+
 </style>
 
 
@@ -154,14 +163,14 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
         <tr>
             <td><b>9:00-10:00</b></td>
             <td class="introClosingEvent">Introduction and presentation <br><i> RM Santa Figura</i></td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Rafael Prieto-Curiel <br><i> RM Santa Figura</i></td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Luis F Seoane <br><i> RM Santa Figura</i></td>
-            <td rowspan="2" class="keynoteTalks"> Invited speaker: <br> Carmen Cabrera <br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_rafael.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Rafael Prieto-Curiel </a><br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks">  <a href="../assets/pdf/abstract_luis.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Luis F Seoane </a><br><i> RM Santa Figura</i></td>
+            <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_carmen.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Carmen Cabrera </a><br><i> RM Santa Figura</i></td>
         </tr>
         <tr>
             <td><b>10:00-10:30</b></td>
             <td class="coffeebreak">Coffee break</td>
-            <td rowspan="2" class="keynoteTalks"> Closure talk: <br> Maxi San Miguel<br><i>Ca n'Oleo</i></td>
+            <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_maxi.pdf" style="color: black; text-decoration: none;">Closing session: <br> Maxi San Miguel</a><br><i>Ca n'Oleo</i></td>
         </tr>
         <tr>
             <td><b>10:30-11:00</b></td>
@@ -251,6 +260,14 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
 
 <small> If Download button does not work, refresh the website.
 
+
+<a href="../assets/pdf/programa_wwcs2026.pdf" target="_blank">
+  View the Book of Abstracts
+</a> |
+<a href="../assets/pdf/programa_wwcs2026.pdf" download="WWCS_Book_of_Abstracts.pdf">
+    Download the Book of Abstracts
+</a>
+    
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
