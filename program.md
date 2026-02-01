@@ -60,6 +60,7 @@ image_base: /assets/image26/
     td.freeTime { background-color: #b3de69 !important; }
     td.nightActivities { background-color: #8dd3c7 !important; }
     td.introClosingEvent { background-color: #fb8072 !important; }
+    td.sponsor { background-color: #D7FACA !important; }
 
     
     /* Small screens for mobile portability */
@@ -165,7 +166,7 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td class="introClosingEvent">Introduction and presentation <br><i> RM Santa Figura</i></td>
             <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_rafael.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Rafael Prieto-Curiel </a><br><i> RM Santa Figura</i></td>
             <td rowspan="2" class="keynoteTalks">  <a href="../assets/pdf/abstract_luis.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Luis F Seoane </a><br><i> RM Santa Figura</i></td>
-            <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_carmen.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Carmen Cabrera </a><br><i> RM Santa Figura</i></td>
+            <td rowspan="3" class="projects">Projects</td>
         </tr>
         <tr>
             <td><b>10:00-10:30</b></td>
@@ -177,78 +178,94 @@ The workshop includes talks by invited speakers, participants' tutorials, and ti
             <td rowspan="4" class="projects">Project discussion <br><i> RM Santa Figura</i></td>
             <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
-            <td class="coffeebreak">Coffee break</td>
         </tr>
         <tr>
             <td><b>11:00-11:30</b></td>
             <td rowspan="3" class="tutorials">Student tutorials <br><i> RM Santa Figura</i></td>
-            <td rowspan="4" class="socialActivities">Hiking + Lunch <br><i> Serra de Tramuntana</i></td>
-            <td rowspan="3" class="projects">Projects</td>
+            <td rowspan="2" class="tutorials"> Poster session<br><i> RM Escolania Theatre</i></td>
+            <td class="coffeebreak">Coffee break</td>
             <td class="coffeebreak">Coffee break</td>
         </tr>
          <tr>
             <td><b>11:30-12:00</b></td>
+            <td rowspan="2" class="keynoteTalks"> <a href="../assets/pdf/abstract_carmen.pdf" style="color: black; text-decoration: none;">Invited speaker: <br> Carmen Cabrera </a><br><i> RM Santa Figura</i></td>
             <td rowspan="3" class="projects">Project presentations<br><i> Ca n'Oleo</i> </td>
         </tr>
         <tr>
             <td><b>12:00-13:00</b></td>
             <td rowspan="4" class="socialActivities">Social lunch <br><i> Casal de Barri Es Jonquet</i></td>
+            <td class="projects">Projects</td>
         </tr>
         <tr>
             <td><b>13:00-14:00</b></td>
             <td class="meals">Lunch <br><i> Sa Fonda</i></td>
             <td class="meals">Lunch <br><i> Sa Fonda</i></td>
             <td class="meals">Lunch <br><i> Sa Fonda</i></td>
+            <td class="meals">Lunch <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>14:00-15:00</b></td>
-            <td rowspan="4" class="projects">Projects</td>
+            <td rowspan="3" class="projects">Projects</td>
             <td class="tutorials">Student tutorials <br><i> RM Santa Figura</i></td>
-            <td rowspan="4" class="projects">Projects</td>
-            <td rowspan="4" class="projects">Projects</td>
-            <td rowspan="3" class="introClosingEvent">Closing event (optional)</td>
+            <td rowspan="2" class="projects">Projects</td>
+            <td rowspan="3" class="projects">Projects</td>
+            <td rowspan="4" class="introClosingEvent">Closing event (optional)</td>
         </tr>
         <tr>
             <td><b>15:00-16:00</b></td>
-            <td rowspan="3" class="projects">Projects</td>
+            <td rowspan="2" class="projects">Projects</td>
         </tr>
         <tr>
-            <td><b>16:00-17:00</b></td>
-            <td rowspan="2" class="arrival">Bus to venue location</td>
+            <td><b>16:00-16:30</b></td>
+            <td rowspan="3" class="arrival">Bus to venue location</td>
+            <td class="sponsor">PLOS Complex Systems <br><i> RM Santa Figura</i></td>
+        </tr>
+        <tr>
+            <td><b>16:30-17:00</b></td>
+            <td class="coffeebreak">Coffee break</td>
+            <td class="coffeebreak">Coffee break</td>
+            <td class="coffeebreak">Coffee break</td>
+            <td class="coffeebreak">Coffee break</td>
         </tr>
         <tr>
             <td><b>17:00-18:00</b></td>
+            <td class="projects">Projects</td>
+            <td class="projects">Projects</td>
+            <td class="projects">Projects</td>
+            <td class="projects">Projects</td>
         </tr>
         <tr>
-            <td><b>18:00-20:00</b></td>
-            <td class="freeTime">Free time</td>
-            <td class="freeTime">Free time</td>
-            <td rowspan="2" class="socialActivities">Startgazing</td>
-            <td class="socialActivities">Wine tasting <br><i> RM Escolania Theater</i></td>
-            <td class="freeTime">Free time</td>
+            <td><b>18:00-18:30</b></td>
+            <td rowspan="3" class="freeTime">Free time</td>
+            <td rowspan="3" class="freeTime">Free time</td>
+            <td rowspan="3" class="freeTime">Free time</td>
+            <td rowspan="1" class="freeTime">Free time</td>    
+            <td rowspan="1" class="freeTime">Free time</td>         
         </tr>
         <tr>
-            <td><b>20:00-20:30</b></td>
-            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
-            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
-            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
-            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td><b>18:30-19:30</b></td>
+            <td rowspan="2" class="socialActivities">Wine tasting <br><i> RM Escolania Theater</i></td>
+            <td rowspan="1" class="keynoteTalks"> Rafael Prieto-Curiel:<br> Academic writing <br><i> RM Santa Figura</i></td>
         </tr>
         <tr>
-            <td><b>20:30-21:00</b></td>
-            <td rowspan="2" class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td><b>19:30-20:00</b></td>
+            <td rowspan="1" class="freeTime">Free time</td>
         </tr>
         <tr>
-            <td><b>21:00-21:30</b></td>
-            <td rowspan="2" class="nightActivities">Introduction game</td>
-            <td rowspan="2" class="nightActivities">Games and other activities</td>
-            <td rowspan="2" class="freeTime">Free time</td>
-            <td rowspan="2" class="nightActivities">Games and other activities</td>
+            <td><b>20:00-21:00</b></td>
+            <td class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td class="meals">Dinner <br><i> Sa Fonda</i></td>
+            <td class="meals">Dinner <br><i> Sa Fonda</i></td>
         </tr>
         <tr>
             <td><b>Night activity</b></td>
+            <td class="nightActivities">Introduction game</td>
+            <td class="nightActivities">Quiz on Complex Systems</td>
+            <td class="nightActivities">Impossible questions quiz</td>
             <td class="freeTime">Free time</td>
-            
+            <td class="nightActivities">Games and other activities</td>
         </tr>
     </table>
 </div>
