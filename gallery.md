@@ -5,7 +5,6 @@ image_base: /assets/image26/gallery/
 ---
 <style>
 
-
 body {
   margin: 0;
   min-height: 100vh;
@@ -15,65 +14,58 @@ body {
 
 .gallery {
   --size: 700px;
+
   display: grid;
   grid-template-columns: repeat(1, var(--size));
   grid-auto-rows: var(--size);
-  margin-bottom: var(--size);
-  place-items: start center;
   gap: 5px;
   overflow: visible;
-  
-  &:has(:hover) img:not(:hover),
-  &:has(:focus) img:not(:focus){
-    filter: brightness(0.5) contrast(0.5);
-  }
-
-  & img {
-    object-fit: cover;
-    width: calc(var(--size) * 2);
-    height: calc(var(--size) );
-    clip-path: polygon(
-      50% 0%,
-      100% 50%,
-      50% 100%,
-      0% 50%
-    );
-    /* transition: clip-path 0.25s, filter 0.75s; */
-    grid-column: auto / span 2;
-    border-radius: 5px;
-
-    &:nth-child(2n - 1) { 
-      grid-column: 2 / span 2 
-    }
-
-    &:hover,
-    &:focus {
-      clip-path:polygon(
-        0% 0%,
-        100% 0%,
-        100% 100%,
-        0% 100%
-      );
-      object-fit: contain; 
-      z-index: 1;
-      overflow: visible;
-      transition: clip-path 0.3s, filter 0.3s;
-    }
-    
-    &:focus {
-      outline: 1px dashed black;
-      outline-offset: -5px;
-    }
-  }
 }
 
+/* image base styles */
+.gallery img {
+  width: calc(var(--size) * 2);
+  height: var(--size);
+  object-fit: cover;
 
+  clip-path: polygon(
+    50% 0%,
+    100% 50%,
+    50% 100%,
+    0% 50%
+  );
 
+  border-radius: 5px;
+  transition: clip-path 0.25s ease, filter 0.25s ease;
+}
+
+/* hover expand */
+.gallery img:hover,
+.gallery img:focus {
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    100% 100%,
+    0% 100%
+  );
+
+  object-fit: contain;
+  z-index: 10;
+}
+
+/* dim others (no :has) */
+.gallery:hover img:not(:hover) {
+  filter: brightness(0.5) contrast(0.5);
+}
+
+.gallery img:focus {
+  outline: 1px dashed black;
+  outline-offset: -5px;
+}
 
 
 </style>
 
-<!-- Here, we’ll post the awesome photos taken during this edition of the workshop! -->
 
 <article class="gallery">
   <img src="{{ page.image_base }}social_lunch.jpeg" alt="Picture at social lunch on Sunday, in Casal de Barri Es Jonquet" />
