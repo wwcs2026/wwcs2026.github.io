@@ -59,7 +59,7 @@ title:  Projects
 
 <div class="project-details">
         <h3>Attenuating contagion in the global trade network</h3>
-        <em>Joe Simpson, Emile Emery, Malvina Bozhidarova, Maria Sahakyan, Gabriela Retamales, Francisco Malveiro</em>
+        <em>Joe Simpson, Emile Emery, Malvina Bozhidarova, Maria Sahakyan, Gabriela Retamales, Francisco Malveiro, William Funez Izaguirre</em>
         <p>
           We study how adaptive trade behavior shapes the propagation of shocks in the global trade network. Specifically, we consider scenarios in which countries actively modify their trade relationships once a trading partner becomes affected by an adverse shock. Such adjustments, often interpreted as risk-mitigation or resilience-enhancing strategies, can substantially reconfigure the network of international trade. Using a set of different strategies, we analyze how endogenous rewiring of trade links influences both the structure of the network and the dynamics of shock transmission.
         </p>
