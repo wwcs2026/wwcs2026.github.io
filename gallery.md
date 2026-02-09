@@ -14,7 +14,7 @@ body {
 }
 
 .gallery {
-  --size: 85hv;
+  --size: 800px;
   display: grid;
   grid-template-columns: repeat(1, var(--size));
   grid-auto-rows: var(--size);
